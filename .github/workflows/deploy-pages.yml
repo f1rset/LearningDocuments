@@ -1,0 +1,55 @@
+name: Deploy Public Documentation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare documentation files (Exclude PDFs and presentations)
+        run: |
+          mkdir -p _site
+          # Копіюємо всю структуру, включаючи markdown, зображення, але суворо виключаємо презентації та PDF
+          rsync -av --progress ./ _site/ \
+            --exclude '.git' \
+            --exclude '.github' \
+            --exclude '.templates' \
+            --exclude '*.pdf' \
+            --exclude '*.pptx' \
+            --exclude '*.ppt' \
+            --exclude '*.key' \
+            --exclude '_site'
+
+          # Створюємо базовий index якщо потрібно, або копіюємо README в корінь _site
+          if [ -f "analog-circuit-design/prerequisites/README.md" ] && [ ! -f "_site/index.md" ]; then
+            cp analog-circuit-design/prerequisites/README.md _site/index.md
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
