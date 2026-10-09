@@ -59,6 +59,24 @@
 
 ---
 
+### 💻 [Архітектура комп'ютерних систем та операційні системи (Computer Systems & OS)](computer-systems-and-os/index.md)
+* ⚡ **[Ultimate Computer Systems & OS Cheat Sheet](computer-systems-and-os/cheat-sheet.md)** *(Регістри x86-64, System V ABI, кеш-пам'ять, планування, віртуальна пам'ять, RAID)*
+* **Модулі курсу:**
+  * [01. Комп'ютерні абстракції та архітектура фон Неймана (Computer Abstraction & Von Neumann)](computer-systems-and-os/notes/01-computer-abstraction-and-von-neumann-architecture.md)
+  * [02. Архітектура набору команд та асемблер x86-64 (ISA & Assembly Programming)](computer-systems-and-os/notes/02-instruction-set-architecture-and-assembly.md)
+  * [03. Мікроархітектура процесора та конвеєризація (Processor Microarchitecture & Pipelining)](computer-systems-and-os/notes/03-processor-microarchitecture-and-pipelining.md)
+  * [04. Ієрархія пам'яті та кешування (Memory Hierarchy & Caches)](computer-systems-and-os/notes/04-memory-hierarchy-and-caches.md)
+  * [05. Структура операційної системи та системні виклики (OS Structure & System Calls)](computer-systems-and-os/notes/05-operating-system-structures-and-system-calls.md)
+  * [06. Управління процесами та перемикання контексту (Process Management & Context Switching)](computer-systems-and-os/notes/06-process-management-and-context-switching.md)
+  * [07. Потоки виконання, паралелізм та багатоядерність (Threads, Concurrency & Multicore)](computer-systems-and-os/notes/07-threads-concurrency-and-multicore.md)
+  * [08. Алгоритми планування процесора (CPU Scheduling Algorithms)](computer-systems-and-os/notes/08-cpu-scheduling-algorithms.md)
+  * [09. Синхронізація процесів та взаємні блокування (Process Synchronization & Deadlocks)](computer-systems-and-os/notes/09-process-synchronization-and-deadlocks.md)
+  * [10. Управління пам'яттю та віртуальна пам'ять (Memory Management & Virtual Memory)](computer-systems-and-os/notes/10-memory-management-and-virtual-memory.md)
+  * [11. Дискові підсистеми, файлові системи та I/O (Storage, File Systems & I/O)](computer-systems-and-os/notes/11-storage-file-systems-and-io.md)
+  * [12. Віртуалізація, контейнеризація та безпека ОС (Virtualization, Containers & OS Security)](computer-systems-and-os/notes/12-virtualization-containers-and-security.md)
+
+---
+
 ### 🔌 [Аналогова схемотехніка (Analog Circuit Design)](analog-circuit-design/prerequisites/index.md)
 
 #### 📘 Базові фізичні основи (Prerequisites)

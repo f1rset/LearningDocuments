@@ -118,3 +118,4 @@ $$P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!}, \quad k \in \{0, 1, 2, \dots\}$$
 ---
 
 [⬅️ Попередня: 02. Умовна ймовірність та формула Байєса](02-conditional-probability-bayes-and-independence.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Неперервні випадкові величини та щільності ➡️](04-continuous-random-variables-and-densities.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

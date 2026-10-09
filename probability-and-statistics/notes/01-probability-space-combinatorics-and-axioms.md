@@ -125,3 +125,4 @@ $$P(A) = \frac{\mu(A)}{\mu(\Omega)}$$
 ---
 
 [🏠 Головний зміст](index.md) | [Наступна тема: 02. Умовна ймовірність, формула Байєса та незалежність ➡️](02-conditional-probability-bayes-and-independence.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

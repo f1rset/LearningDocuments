@@ -118,3 +118,4 @@ $$F = \frac{\chi^2(d_1) / d_1}{\chi^2(d_2) / d_2} \sim F(d_1, d_2)$$
 ---
 
 [⬅️ Попередня: 07. Граничні теореми та ЦГТ](07-limit-theorems-law-of-large-numbers-and-clt.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 09. Точкове оцінювання параметрів та метод MLE ➡️](09-point-estimation-mle-and-method-of-moments.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

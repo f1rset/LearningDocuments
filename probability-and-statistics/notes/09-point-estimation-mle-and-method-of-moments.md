@@ -123,3 +123,4 @@ $$\hat{\theta}_{\text{MAP}} = \arg\max_\theta p(\theta \mid \mathbf{x}) = \arg\m
 ---
 
 [⬅️ Попередня: 08. Описова статистика та вибіркові розподіли](08-descriptive-statistics-and-sampling-distributions.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Довірчі інтервали ➡️](10-confidence-intervals.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

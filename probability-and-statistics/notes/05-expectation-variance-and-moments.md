@@ -132,3 +132,4 @@ $$\varphi_X(t) = E\left[ e^{i t X} \right] = \int_{-\infty}^\infty e^{i t x} f(x
 ---
 
 [⬅️ Попередня: 04. Неперервні випадкові величини](04-continuous-random-variables-and-densities.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 06. Багатовимірні розподіли, коваріація та спільна щільність ➡️](06-multivariate-distributions-covariance-and-joint-pdf.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

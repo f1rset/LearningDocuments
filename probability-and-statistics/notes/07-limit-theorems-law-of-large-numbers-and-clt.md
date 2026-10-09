@@ -124,3 +124,4 @@ $$\bar{X}_n \xrightarrow{\text{a.s.}} \mu \iff P\left( \lim_{n \to \infty} \bar{
 ---
 
 [⬅️ Попередня: 06. Багатовимірні розподіли та коваріація](06-multivariate-distributions-covariance-and-joint-pdf.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 08. Описова статистика та вибіркові розподіли ➡️](08-descriptive-statistics-and-sampling-distributions.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

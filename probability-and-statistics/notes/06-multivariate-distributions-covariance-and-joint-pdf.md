@@ -133,3 +133,4 @@ $$f(\mathbf{x}) = \frac{1}{(2\pi)^{n/2} |\det\Sigma|^{1/2}} \exp\left( -\frac{1}
 ---
 
 [⬅️ Попередня: 05. Числові характеристики та моменти](05-expectation-variance-and-moments.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 07. Граничні теореми: Закон великих чисел та ЦГТ ➡️](07-limit-theorems-law-of-large-numbers-and-clt.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

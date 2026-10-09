@@ -119,3 +119,4 @@
 ---
 
 [🏠 Головний зміст](index.md) | [📚 Повний курс лекцій](notes/01-probability-space-combinatorics-and-axioms.md)
+

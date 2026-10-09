@@ -110,3 +110,4 @@ $$\frac{\hat{p} + \frac{z^2}{2n} \pm z\sqrt{\frac{\hat{p}(1-\hat{p})}{n} + \frac
 ---
 
 [⬅️ Попередня: 09. Точкове оцінювання та MLE](09-point-estimation-mle-and-method-of-moments.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 11. Перевірка статистичних гіпотез ➡️](11-hypothesis-testing.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

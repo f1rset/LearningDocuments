@@ -109,6 +109,21 @@ nav:
       - 10. Довірчі інтервали: probability-and-statistics/notes/10-confidence-intervals.md
       - 11. Перевірка статистичних гіпотез: probability-and-statistics/notes/11-hypothesis-testing.md
       - 12. Лінійна регресія та кореляція: probability-and-statistics/notes/12-linear-regression-and-correlation-analysis.md
+  - Комп'ютерні системи та ОС (Computer Systems & OS):
+      - Головна та зміст: computer-systems-and-os/index.md
+      - Шпаргалка (Cheat Sheet): computer-systems-and-os/cheat-sheet.md
+      - 01. Абстракції та фон Нейман: computer-systems-and-os/notes/01-computer-abstraction-and-von-neumann-architecture.md
+      - 02. Набір команд та асемблер x86-64: computer-systems-and-os/notes/02-instruction-set-architecture-and-assembly.md
+      - 03. Мікроархітектура та конвеєр: computer-systems-and-os/notes/03-processor-microarchitecture-and-pipelining.md
+      - 04. Ієрархія пам'яті та кешування: computer-systems-and-os/notes/04-memory-hierarchy-and-caches.md
+      - 05. Структура ОС та системні виклики: computer-systems-and-os/notes/05-operating-system-structures-and-system-calls.md
+      - 06. Управління процесами: computer-systems-and-os/notes/06-process-management-and-context-switching.md
+      - 07. Потоки та багатоядерність: computer-systems-and-os/notes/07-threads-concurrency-and-multicore.md
+      - 08. Планування CPU (Scheduling): computer-systems-and-os/notes/08-cpu-scheduling-algorithms.md
+      - 09. Синхронізація та дедлоки: computer-systems-and-os/notes/09-process-synchronization-and-deadlocks.md
+      - 10. Віртуальна пам'ять: computer-systems-and-os/notes/10-memory-management-and-virtual-memory.md
+      - 11. Файлові системи та I/O: computer-systems-and-os/notes/11-storage-file-systems-and-io.md
+      - 12. Віртуалізація, контейнери, безпека: computer-systems-and-os/notes/12-virtualization-containers-and-security.md
   - Аналогова схемотехніка:
       - Вступ та зміст: analog-circuit-design/prerequisites/index.md
       - Шпаргалка (Cheat Sheet): analog-circuit-design/prerequisites/cheat-sheet.md

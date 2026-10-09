@@ -116,3 +116,4 @@ $$f_Y(y) = f_X(g^{-1}(y)) \cdot \left| \frac{d}{dy} g^{-1}(y) \right| = \frac{f_
 ---
 
 [⬅️ Попередня: 03. Дискретні випадкові величини](03-discrete-random-variables-and-distributions.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 05. Числові характеристики: сподівання, дисперсія та моменти ➡️](05-expectation-variance-and-moments.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

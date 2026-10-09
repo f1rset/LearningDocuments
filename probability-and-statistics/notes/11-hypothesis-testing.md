@@ -120,3 +120,4 @@ $$\text{FWER} = 1 - (1 - \alpha)^m \xrightarrow{m = 20} 1 - 0.95^{20} \approx 64
 ---
 
 [⬅️ Попередня: 10. Довірчі інтервали](10-confidence-intervals.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 12. Лінійна регресія та кореляційний аналіз ➡️](12-linear-regression-and-correlation-analysis.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+
