@@ -40,7 +40,9 @@ $$\mathcal{E} = \frac{A_{\text{стор}}}{q}$$
 $$I = \frac{\mathcal{E}}{R + r}$$
 
 ### Напруга на клемах джерела під навантаженням:
+
 $$\mathcal{E} = I \cdot R + I \cdot r = U_{\text{навант}} + U_{\text{внутр}}$$
+
 $$U = \mathcal{E} - I \cdot r$$
 
 * **Режим холостого ходу ($R \to \infty$, коло розірване):** $I = 0 \implies U = \mathcal{E}$. Напруга на клемах дорівнює ЕРС.

@@ -100,6 +100,7 @@ $$V_{\text{out}} = I \cdot R_2 = V_{\text{in}} \cdot \frac{R_2}{R_1 + R_2}$$
 ```
 
 $$I_1 = I_{\text{total}} \cdot \frac{R_2}{R_1 + R_2}$$
+
 $$I_2 = I_{\text{total}} \cdot \frac{R_1}{R_1 + R_2}$$
 
 > **Зверніть увагу:** У чисельнику стоїть опір **протилежної** гілки! Більший струм тече туди, де менший опір.
@@ -130,9 +131,11 @@ $$I_2 = I_{\text{total}} \cdot \frac{R_1}{R_1 + R_2}$$
 Потенціали в точках $A$ та $B$:
 $$V_A = V_{\text{in}} \frac{R_2}{R_1 + R_2}, \quad V_B = V_{\text{in}} \frac{R_4}{R_3 + R_4}$$
 Різниця потенціалів між точками $A$ і $B$:
+
 $$V_{AB} = V_A - V_B = V_{\text{in}} \left( \frac{R_2}{R_1 + R_2} - \frac{R_4}{R_3 + R_4} \right)$$
 
 ### Умова балансу мосту ($V_{AB} = 0$):
+
 $$\frac{R_1}{R_2} = \frac{R_3}{R_4} \quad \Longleftrightarrow \quad R_1 R_4 = R_2 R_3$$
 
 ---
@@ -142,6 +145,7 @@ $$\frac{R_1}{R_2} = \frac{R_3}{R_4} \quad \Longleftrightarrow \quad R_1 R_4 = R_
 Для розрахунку складних кіл, де немає чистого послідовного або паралельного з'єднання:
 
 $$\text{Трикутник } (\Delta) \to \text{Зірка } (Y): \quad R_A = \frac{R_{AB} R_{CA}}{R_{AB} + R_{BC} + R_{CA}}$$
+
 $$\text{Зірка } (Y) \to \text{Трикутник } (\Delta): \quad R_{AB} = R_A + R_B + \frac{R_A R_B}{R_C}$$
 
 ---

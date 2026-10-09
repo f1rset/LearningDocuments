@@ -45,7 +45,9 @@ $$u(t) = U_m \cdot \sin(\omega t + \varphi_0)$$
 $$P_{\text{avg}} = I_{\text{RMS}}^2 \cdot R = \frac{U_{\text{RMS}}^2}{R}$$
 
 ### Для синусоїдального сигналу:
+
 $$U_{\text{RMS}} = \frac{U_m}{\sqrt{2}} \approx 0.707 \cdot U_m$$
+
 $$I_{\text{RMS}} = \frac{I_m}{\sqrt{2}} \approx 0.707 \cdot I_m$$
 
 > **💡 Приклад із життя:**
