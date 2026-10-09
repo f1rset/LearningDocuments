@@ -1,0 +1,75 @@
+site_name: Learning Documents
+site_description: Репозиторій структурованих конспектів та інженерних шпаргалок
+site_url: https://f1rset.github.io/LearningDocuments/
+repo_url: https://github.com/f1rset/LearningDocuments
+repo_name: f1rset/LearningDocuments
+
+theme:
+  name: material
+  language: uk
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Темна тема
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Світла тема
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Головна: index.md
+  - Аналогова схемотехніка:
+      - Вступ та зміст: analog-circuit-design/prerequisites/index.md
+      - Шпаргалка (Cheat Sheet): analog-circuit-design/prerequisites/cheat-sheet.md
+      - 01. Електростатика: analog-circuit-design/prerequisites/01-electrostatics-and-potential.md
+      - 02. Струм та опір: analog-circuit-design/prerequisites/02-electric-current-and-resistance.md
+      - 03. Робота, потужність, ЕРС: analog-circuit-design/prerequisites/03-work-power-and-emf.md
+      - 04. Резистори та подільники: analog-circuit-design/prerequisites/04-resistor-circuits-and-dividers.md
+      - 05. Закони Кірхгофа: analog-circuit-design/prerequisites/05-kirchhoff-laws-and-analysis.md
+      - 06. Конденсатори та RC: analog-circuit-design/prerequisites/06-capacitors-and-rc-basics.md
+      - 07. Індуктивності та RL: analog-circuit-design/prerequisites/07-inductors-and-rl-basics.md
+      - 08. Змінний струм та фільтри: analog-circuit-design/prerequisites/08-ac-signals-and-passive-components.md
+      - 09. Вимірювання та практика: analog-circuit-design/prerequisites/09-measurements-and-real-world-circuits.md
+
