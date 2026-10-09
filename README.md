@@ -6,6 +6,25 @@
 
 ## 🗂️ Доступні курси та розділи
 
+### 🧮 [Лінійна алгебра (Linear Algebra)](linear-algebra/index.md)
+* ⚡ **[Ultimate Linear Algebra Cheat Sheet](linear-algebra/cheat-sheet.md)** *(Всі факторизації, теореми та формули)*
+* **Модулі курсу:**
+  * [01. Системи лінійних рівнянь та метод Гаусса (Systems of Linear Equations & Elimination)](linear-algebra/notes/01-systems-of-linear-equations-and-gaussian-elimination.md)
+  * [02. Матриці, вектори, елементарні перетворення та LU-розклад (Matrices & LU Factorization)](linear-algebra/notes/02-matrices-vectors-and-lu-factorization.md)
+  * [03. Визначники, їхні властивості та правило Крамера (Determinants & Cramer's Rule)](linear-algebra/notes/03-determinants-and-cramers-rule.md)
+  * [04. Лінійні векторні простори, підпростори та лінійна незалежність (Vector Spaces & Subspaces)](linear-algebra/notes/04-vector-spaces-subspaces-and-spans.md)
+  * [05. Базиси, ранг та 4 фундаментальні підпростори (Bases & The Four Fundamental Subspaces)](linear-algebra/notes/05-bases-dimension-rank-and-four-subspaces.md)
+  * [06. Заміна базису, матриці переходу та лінійні оператори (Change of Basis & Linear Maps)](linear-algebra/notes/06-change-of-basis-and-linear-transformations.md)
+  * [07. Норми, відстані, скалярний добуток та ортогональність (Norms, Inner Products & Orthogonality)](linear-algebra/notes/07-norms-inner-products-and-orthogonality.md)
+  * [08. Ортонормовані базиси, проекції та метод найменших квадратів (Projections & Least Squares)](linear-algebra/notes/08-orthonormal-bases-projections-and-least-squares.md)
+  * [09. Ортогональні матриці, процес Грама-Шмідта та QR-розклад (Orthogonal Matrices & QR)](linear-algebra/notes/09-orthogonal-matrices-gram-schmidt-and-qr.md)
+  * [10. Власні значення, вектори, діагоналізація та жорданова форма (Eigenvalues & Jordan Form)](linear-algebra/notes/10-eigenvalues-eigenvectors-and-jordan-form.md)
+  * [11. Симетричні матриці, квадратичні форми, розклад Холецького та PCA (Symmetric Matrices & PCA)](linear-algebra/notes/11-symmetric-matrices-quadratic-forms-and-pca.md)
+  * [12. Симетричні, кососиметричні, унітарні матриці та спектральна теорія (Unitary & Spectral Theory)](linear-algebra/notes/12-symmetric-unitary-matrices-and-spectral-decomposition.md)
+  * [13. Сингулярний розклад (SVD), наближення низького рангу та застосування (SVD & Applications)](linear-algebra/notes/13-svd-and-best-rank-approximations.md)
+
+---
+
 ### 🔌 [Аналогова схемотехніка (Analog Circuit Design)](analog-circuit-design/prerequisites/index.md)
 
 #### 📘 Базові фізичні основи (Prerequisites)

@@ -65,7 +65,23 @@ site_dir: site
 
 nav:
   - Головна: index.md
-  - Prerequisites (База):
+  - Лінійна алгебра (Linear Algebra):
+      - Головна та зміст: linear-algebra/index.md
+      - Шпаргалка (Cheat Sheet): linear-algebra/cheat-sheet.md
+      - 01. Системи лінійних рівнянь: linear-algebra/notes/01-systems-of-linear-equations-and-gaussian-elimination.md
+      - 02. Матриці та LU-розклад: linear-algebra/notes/02-matrices-vectors-and-lu-factorization.md
+      - 03. Визначники та Крамер: linear-algebra/notes/03-determinants-and-cramers-rule.md
+      - 04. Векторні простори: linear-algebra/notes/04-vector-spaces-subspaces-and-spans.md
+      - 05. Базиси та 4 підпростори: linear-algebra/notes/05-bases-dimension-rank-and-four-subspaces.md
+      - 06. Заміна базису та оператори: linear-algebra/notes/06-change-of-basis-and-linear-transformations.md
+      - 07. Норми та ортогональність: linear-algebra/notes/07-norms-inner-products-and-orthogonality.md
+      - 08. Проекції та МНК: linear-algebra/notes/08-orthonormal-bases-projections-and-least-squares.md
+      - 09. Грама-Шмідта та QR: linear-algebra/notes/09-orthogonal-matrices-gram-schmidt-and-qr.md
+      - 10. Власні значення та Жордан: linear-algebra/notes/10-eigenvalues-eigenvectors-and-jordan-form.md
+      - 11. Симетричні матриці та PCA: linear-algebra/notes/11-symmetric-matrices-quadratic-forms-and-pca.md
+      - 12. Спектральна теорія та унітарні матриці: linear-algebra/notes/12-symmetric-unitary-matrices-and-spectral-decomposition.md
+      - 13. Сингулярний розклад (SVD): linear-algebra/notes/13-svd-and-best-rank-approximations.md
+  - Аналогова схемотехніка:
       - Вступ та зміст: analog-circuit-design/prerequisites/index.md
       - Шпаргалка (Cheat Sheet): analog-circuit-design/prerequisites/cheat-sheet.md
       - 01. Електростатика: analog-circuit-design/prerequisites/01-electrostatics-and-potential.md
@@ -77,7 +93,7 @@ nav:
       - 07. Індуктивності та RL: analog-circuit-design/prerequisites/07-inductors-and-rl-basics.md
       - 08. Змінний струм та фільтри: analog-circuit-design/prerequisites/08-ac-signals-and-passive-components.md
       - 09. Вимірювання та практика: analog-circuit-design/prerequisites/09-measurements-and-real-world-circuits.md
-  - Лекція 1 (Двополюсники, BJT, JFET):
-      - Конспект лекції: analog-circuit-design/lectures/l1/index.md
-      - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l1/cheat-sheet.md
-      - Питання та відповіді (Q&A): analog-circuit-design/lectures/l1/questions.md
+      - Лекція 1 (Двополюсники, BJT, JFET):
+          - Конспект лекції: analog-circuit-design/lectures/l1/index.md
+          - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l1/cheat-sheet.md
+          - Питання та відповіді (Q&A): analog-circuit-design/lectures/l1/questions.md
