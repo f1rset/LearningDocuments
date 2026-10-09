@@ -36,13 +36,14 @@ jobs:
 
       - name: Prepare documentation directory
         run: |
-          mkdir -p docs/analog-circuit-design docs/linear-algebra
+          mkdir -p docs/analog-circuit-design docs/linear-algebra docs/calculus
           # Копіюємо кореневий README як головну сторінку сайту
           cp README.md docs/index.md
           
           # Копіюємо матеріали курсів
           cp -r analog-circuit-design/* docs/analog-circuit-design/
           cp -r linear-algebra/* docs/linear-algebra/
+          cp -r calculus/* docs/calculus/
 
       - name: Build MkDocs documentation
         run: mkdocs build

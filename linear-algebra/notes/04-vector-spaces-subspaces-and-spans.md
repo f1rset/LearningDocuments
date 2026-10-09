@@ -133,3 +133,4 @@ $$\text{span}(S) = \text{span}\{\mathbf{v}_1, \dots, \mathbf{v}_k\} = \left\{ \s
 ---
 
 [⬅️ 03. Визначники](03-determinants-and-cramers-rule.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 05. Базиси, ранг та 4 фундаментальні підпростори ➡️](05-bases-dimension-rank-and-four-subspaces.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

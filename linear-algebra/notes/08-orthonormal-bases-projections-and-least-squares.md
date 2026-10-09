@@ -132,3 +132,4 @@ $$
 ---
 
 [⬅️ 07. Норми та ортогональність](07-norms-inner-products-and-orthogonality.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 09. Ортогональні матриці, Грама-Шмідта та QR-розклад ➡️](09-orthogonal-matrices-gram-schmidt-and-qr.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

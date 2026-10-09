@@ -127,3 +127,4 @@ $$\text{Кількість pivot-стовпців} + \text{Кількість в
 ---
 
 [⬅️ 04. Лінійні простори](04-vector-spaces-subspaces-and-spans.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 06. Заміна базису та лінійні оператори ➡️](06-change-of-basis-and-linear-transformations.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

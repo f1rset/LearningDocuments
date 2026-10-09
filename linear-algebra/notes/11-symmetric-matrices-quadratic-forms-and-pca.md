@@ -136,3 +136,4 @@ $$
 ---
 
 [⬅️ 10. Власні значення та жорданова форма](10-eigenvalues-eigenvectors-and-jordan-form.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 12. Спектральна теорія та унітарні матриці ➡️](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

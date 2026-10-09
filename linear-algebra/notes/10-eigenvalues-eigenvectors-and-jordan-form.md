@@ -139,3 +139,4 @@ $$\frac{d\mathbf{x}}{dt} = A \mathbf{x}(t), \quad \mathbf{x}(0) = \mathbf{x}_0$$
 ---
 
 [⬅️ 09. Ортогональні матриці та QR-розклад](09-orthogonal-matrices-gram-schmidt-and-qr.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 11. Симетричні матриці та квадратичні форми ➡️](11-symmetric-matrices-quadratic-forms-and-pca.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

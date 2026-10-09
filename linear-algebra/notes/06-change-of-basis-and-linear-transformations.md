@@ -127,3 +127,4 @@ $$B = P^{-1} A P$$
 ---
 
 [⬅️ 05. Базиси та 4 підпростори](05-bases-dimension-rank-and-four-subspaces.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 07. Норми, відстані та ортогональність ➡️](07-norms-inner-products-and-orthogonality.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

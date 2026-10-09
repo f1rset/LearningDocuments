@@ -129,3 +129,4 @@ flowchart TD
 ---
 
 [🏠 Головний зміст](index.md) | [Наступна тема: 02. Матриці, вектори та LU-розклад ➡️](02-matrices-vectors-and-lu-factorization.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

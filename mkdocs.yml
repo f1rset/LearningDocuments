@@ -81,6 +81,19 @@ nav:
       - 11. Симетричні матриці та PCA: linear-algebra/notes/11-symmetric-matrices-quadratic-forms-and-pca.md
       - 12. Спектральна теорія та унітарні матриці: linear-algebra/notes/12-symmetric-unitary-matrices-and-spectral-decomposition.md
       - 13. Сингулярний розклад (SVD): linear-algebra/notes/13-svd-and-best-rank-approximations.md
+  - Математичний аналіз (Calculus & ODE):
+      - Головна та зміст: calculus/index.md
+      - Шпаргалка (Cheat Sheet): calculus/cheat-sheet.md
+      - 01. Границі та похідні 1D: calculus/notes/01-limits-continuity-and-derivatives.md
+      - 02. Теореми аналізу та Тейлор: calculus/notes/02-mean-value-theorems-taylor-series-and-extrema.md
+      - 03. Невизначений та визначений інтеграли: calculus/notes/03-indefinite-and-definite-integrals.md
+      - 04. Числові, степеневі та ряди Фур'є: calculus/notes/04-numerical-power-and-fourier-series.md
+      - 05. Функції багатьох змінних та градієнт: calculus/notes/05-multivariable-functions-limits-and-partial-derivatives.md
+      - 06. Матриці Якобі та Гессе: calculus/notes/06-multivariable-chain-rule-jacobian-and-hessian.md
+      - 07. Умовна оптимізація та Лагранж: calculus/notes/07-constrained-optimization-and-lagrange-multipliers.md
+      - 08. Кратні інтеграли та заміни координат: calculus/notes/08-multiple-integrals-and-coordinate-transformations.md
+      - 09. Векторний аналіз (Грін, Гаусс, Стокс): calculus/notes/09-vector-calculus-and-line-surface-integrals.md
+      - 10. Диференціальні рівняння та системи: calculus/notes/10-differential-equations-ode-and-systems.md
   - Аналогова схемотехніка:
       - Вступ та зміст: analog-circuit-design/prerequisites/index.md
       - Шпаргалка (Cheat Sheet): analog-circuit-design/prerequisites/cheat-sheet.md
