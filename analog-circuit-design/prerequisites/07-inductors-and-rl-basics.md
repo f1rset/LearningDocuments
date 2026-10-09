@@ -1,6 +1,6 @@
 # 07. Котушки індуктивності та самоіндукція (RL-кола)
 
-[⬅️ 06. Конденсатори](06-capacitors-and-rc-basics.md) | [🏠 Зміст](README.md) | [Наступна тема: 08. Змінний струм ➡️](08-ac-signals-and-passive-components.md)
+[⬅️ 06. Конденсатори](06-capacitors-and-rc-basics.md) | [🏠 Зміст](index.md) | [Наступна тема: 08. Змінний струм ➡️](08-ac-signals-and-passive-components.md)
 
 ---
 
@@ -132,5 +132,5 @@ $$\tau = \frac{L}{R} \quad [\text{Секунди}]$$
 
 ---
 
-[⬅️ 06. Конденсатори](06-capacitors-and-rc-basics.md) | [🏠 Зміст](README.md) | [Наступна тема: 08. Змінний струм ➡️](08-ac-signals-and-passive-components.md)
+[⬅️ 06. Конденсатори](06-capacitors-and-rc-basics.md) | [🏠 Зміст](index.md) | [Наступна тема: 08. Змінний струм ➡️](08-ac-signals-and-passive-components.md)
 

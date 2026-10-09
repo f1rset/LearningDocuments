@@ -1,6 +1,6 @@
 # 02. Електричний струм, закон Ома та опір
 
-[⬅️ 01. Електростатика і потенціал](01-electrostatics-and-potential.md) | [🏠 Зміст](README.md) | [Наступна тема: 03. ЕРС і потужність ➡️](03-work-power-and-emf.md)
+[⬅️ 01. Електростатика і потенціал](01-electrostatics-and-potential.md) | [🏠 Зміст](index.md) | [Наступна тема: 03. ЕРС і потужність ➡️](03-work-power-and-emf.md)
 
 ---
 
@@ -124,5 +124,5 @@ $$\vec{j} = \sigma \vec{E} = \frac{\vec{E}}{\rho}$$
 
 ---
 
-[⬅️ 01. Електростатика і потенціал](01-electrostatics-and-potential.md) | [🏠 Зміст](README.md) | [Наступна тема: 03. ЕРС і потужність ➡️](03-work-power-and-emf.md)
+[⬅️ 01. Електростатика і потенціал](01-electrostatics-and-potential.md) | [🏠 Зміст](index.md) | [Наступна тема: 03. ЕРС і потужність ➡️](03-work-power-and-emf.md)
 

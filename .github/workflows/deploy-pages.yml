@@ -37,16 +37,11 @@ jobs:
       - name: Prepare documentation directory
         run: |
           mkdir -p docs/analog-circuit-design
-          # Копіюємо кореневий README як головну сторінку
+          # Копіюємо кореневий README як головну сторінку сайту
           cp README.md docs/index.md
           
           # Копіюємо матеріали курсів
           cp -r analog-circuit-design/* docs/analog-circuit-design/
-          
-          # Замінюємо README.md на index.md у prerequisites для коректної роботи MkDocs
-          if [ -f "docs/analog-circuit-design/prerequisites/README.md" ]; then
-            mv docs/analog-circuit-design/prerequisites/README.md docs/analog-circuit-design/prerequisites/index.md
-          fi
 
       - name: Build MkDocs documentation
         run: mkdocs build

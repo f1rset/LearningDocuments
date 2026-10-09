@@ -1,6 +1,6 @@
 # 01. Електростатика, заряд, поле, потенціал і напруга
 
-[🏠 Зміст](README.md) | [Наступна тема: 02. Струм та опір ➡️](02-electric-current-and-resistance.md)
+[🏠 Зміст](index.md) | [Наступна тема: 02. Струм та опір ➡️](02-electric-current-and-resistance.md)
 
 ---
 
@@ -101,5 +101,5 @@ $$E = \frac{U}{d} \quad \Longleftrightarrow \quad U = E \cdot d$$
 
 ---
 
-[⬅️ Назад до Змісту](README.md) | [Наступна тема: 02. Електричний струм, закон Ома та опір ➡️](02-electric-current-and-resistance.md)
+[⬅️ Назад до Змісту](index.md) | [Наступна тема: 02. Електричний струм, закон Ома та опір ➡️](02-electric-current-and-resistance.md)
 

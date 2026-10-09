@@ -1,6 +1,6 @@
 # 05. Правила Кірхгофа (KCL & KVL) та аналіз електричних кіл
 
-[⬅️ 04. З'єднання елементів](04-resistor-circuits-and-dividers.md) | [🏠 Зміст](README.md) | [Наступна тема: 06. Конденсатори ➡️](06-capacitors-and-rc-basics.md)
+[⬅️ 04. З'єднання елементів](04-resistor-circuits-and-dividers.md) | [🏠 Зміст](index.md) | [Наступна тема: 06. Конденсатори ➡️](06-capacitors-and-rc-basics.md)
 
 ---
 
@@ -98,5 +98,5 @@ $$\sum_{k} \mathcal{E}_k = \sum_{k} I_k R_k \quad \Longleftrightarrow \quad \sum
 
 ---
 
-[⬅️ 04. З'єднання елементів](04-resistor-circuits-and-dividers.md) | [🏠 Зміст](README.md) | [Наступна тема: 06. Конденсатори ➡️](06-capacitors-and-rc-basics.md)
+[⬅️ 04. З'єднання елементів](04-resistor-circuits-and-dividers.md) | [🏠 Зміст](index.md) | [Наступна тема: 06. Конденсатори ➡️](06-capacitors-and-rc-basics.md)
 

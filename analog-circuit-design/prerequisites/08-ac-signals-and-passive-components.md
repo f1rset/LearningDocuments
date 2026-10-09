@@ -1,6 +1,6 @@
 # 08. Основи змінного струму (AC) та реактивний опір / імпеданс
 
-[⬅️ 07. Котушки індуктивності](07-inductors-and-rl-basics.md) | [🏠 Зміст](README.md) | [Наступна тема: 09. Вимірювання та моделі ➡️](09-measurements-and-real-world-circuits.md)
+[⬅️ 07. Котушки індуктивності](07-inductors-and-rl-basics.md) | [🏠 Зміст](index.md) | [Наступна тема: 09. Вимірювання та моделі ➡️](09-measurements-and-real-world-circuits.md)
 
 ---
 
@@ -137,5 +137,5 @@ $$X_L = X_C \quad \Longleftrightarrow \quad \omega_0 L = \frac{1}{\omega_0 C}$$
 
 ---
 
-[⬅️ 07. Котушки індуктивності](07-inductors-and-rl-basics.md) | [🏠 Зміст](README.md) | [Наступна тема: 09. Вимірювання та моделі ➡️](09-measurements-and-real-world-circuits.md)
+[⬅️ 07. Котушки індуктивності](07-inductors-and-rl-basics.md) | [🏠 Зміст](index.md) | [Наступна тема: 09. Вимірювання та моделі ➡️](09-measurements-and-real-world-circuits.md)
 

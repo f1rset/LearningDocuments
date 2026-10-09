@@ -1,6 +1,6 @@
 # 09. Вимірювання, моделі реальних компонентів і опорний потенціал (GND)
 
-[⬅️ 08. Змінний струм та імпеданс](08-ac-signals-and-passive-components.md) | [🏠 Зміст](README.md)
+[⬅️ 08. Змінний струм та імпеданс](08-ac-signals-and-passive-components.md) | [🏠 Зміст](index.md)
 
 ---
 
@@ -132,5 +132,5 @@
 
 ---
 
-[⬅️ 08. Змінний струм та імпеданс](08-ac-signals-and-passive-components.md) | [🏠 Повернутися до Змісту](README.md)
+[⬅️ 08. Змінний струм та імпеданс](08-ac-signals-and-passive-components.md) | [🏠 Повернутися до Змісту](index.md)
 

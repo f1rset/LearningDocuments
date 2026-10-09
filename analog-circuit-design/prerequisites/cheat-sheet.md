@@ -1,6 +1,6 @@
 # ⚡ Ultimate Cheat Sheet: Фізика електричних кіл (Prerequisites)
 
-[🏠 Головний зміст](README.md) | [01. Електростатика](01-electrostatics-and-potential.md) | [09. Вимірювання](09-measurements-and-real-world-circuits.md)
+[🏠 Головний зміст](index.md) | [01. Електростатика](01-electrostatics-and-potential.md) | [09. Вимірювання](09-measurements-and-real-world-circuits.md)
 
 ---
 
@@ -119,5 +119,5 @@
 
 ---
 
-[🏠 Назад до Змісту](README.md)
+[🏠 Назад до Змісту](index.md)
 

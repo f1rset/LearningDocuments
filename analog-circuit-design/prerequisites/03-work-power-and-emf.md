@@ -1,6 +1,6 @@
 # 03. ЕРС, повне коло, робота, потужність і закон Джоуля-Ленца
 
-[⬅️ 02. Струм та опір](02-electric-current-and-resistance.md) | [🏠 Зміст](README.md) | [Наступна тема: 04. З'єднання елементів ➡️](04-resistor-circuits-and-dividers.md)
+[⬅️ 02. Струм та опір](02-electric-current-and-resistance.md) | [🏠 Зміст](index.md) | [Наступна тема: 04. З'єднання елементів ➡️](04-resistor-circuits-and-dividers.md)
 
 ---
 
@@ -126,5 +126,5 @@ $$\frac{dP}{dR} = \mathcal{E}^2 \frac{(R+r)^2 - 2R(R+r)}{(R+r)^4} = \mathcal{E}^
 
 ---
 
-[⬅️ 02. Струм та опір](02-electric-current-and-resistance.md) | [🏠 Зміст](README.md) | [Наступна тема: 04. З'єднання елементів ➡️](04-resistor-circuits-and-dividers.md)
+[⬅️ 02. Струм та опір](02-electric-current-and-resistance.md) | [🏠 Зміст](index.md) | [Наступна тема: 04. З'єднання елементів ➡️](04-resistor-circuits-and-dividers.md)
 

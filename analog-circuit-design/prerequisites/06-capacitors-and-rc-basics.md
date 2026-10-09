@@ -1,6 +1,6 @@
 # 06. Конденсатори та ємність (RC-кола)
 
-[⬅️ 05. Правила Кірхгофа](05-kirchhoff-laws-and-analysis.md) | [🏠 Зміст](README.md) | [Наступна тема: 07. Котушки індуктивності ➡️](07-inductors-and-rl-basics.md)
+[⬅️ 05. Правила Кірхгофа](05-kirchhoff-laws-and-analysis.md) | [🏠 Зміст](index.md) | [Наступна тема: 07. Котушки індуктивності ➡️](07-inductors-and-rl-basics.md)
 
 ---
 
@@ -122,5 +122,5 @@ $$f_c = \frac{1}{2\pi R C}$$
 
 ---
 
-[⬅️ 05. Правила Кірхгофа](05-kirchhoff-laws-and-analysis.md) | [🏠 Зміст](README.md) | [Наступна тема: 07. Котушки індуктивності ➡️](07-inductors-and-rl-basics.md)
+[⬅️ 05. Правила Кірхгофа](05-kirchhoff-laws-and-analysis.md) | [🏠 Зміст](index.md) | [Наступна тема: 07. Котушки індуктивності ➡️](07-inductors-and-rl-basics.md)
 

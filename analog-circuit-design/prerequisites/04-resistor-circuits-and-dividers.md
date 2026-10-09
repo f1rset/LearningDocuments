@@ -1,6 +1,6 @@
 # 04. З'єднання елементів, подільники напруги та струму
 
-[⬅️ 03. ЕРС і потужність](03-work-power-and-emf.md) | [🏠 Зміст](README.md) | [Наступна тема: 05. Правила Кірхгофа ➡️](05-kirchhoff-laws-and-analysis.md)
+[⬅️ 03. ЕРС і потужність](03-work-power-and-emf.md) | [🏠 Зміст](index.md) | [Наступна тема: 05. Правила Кірхгофа ➡️](05-kirchhoff-laws-and-analysis.md)
 
 ---
 
@@ -158,5 +158,5 @@ $$\text{Зірка } (Y) \to \text{Трикутник } (\Delta): \quad R_{AB} =
 
 ---
 
-[⬅️ 03. ЕРС і потужність](03-work-power-and-emf.md) | [🏠 Зміст](README.md) | [Наступна тема: 05. Правила Кірхгофа ➡️](05-kirchhoff-laws-and-analysis.md)
+[⬅️ 03. ЕРС і потужність](03-work-power-and-emf.md) | [🏠 Зміст](index.md) | [Наступна тема: 05. Правила Кірхгофа ➡️](05-kirchhoff-laws-and-analysis.md)
 
