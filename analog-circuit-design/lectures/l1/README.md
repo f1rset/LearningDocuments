@@ -299,3 +299,4 @@
 ---
 
 [🏠 Головний зміст](../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
+
