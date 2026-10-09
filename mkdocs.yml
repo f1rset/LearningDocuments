@@ -4,6 +4,8 @@ site_url: https://f1rset.github.io/LearningDocuments/
 repo_url: https://github.com/f1rset/LearningDocuments
 repo_name: f1rset/LearningDocuments
 
+use_directory_urls: false
+
 theme:
   name: material
   language: uk
@@ -72,4 +74,3 @@ nav:
       - 07. Індуктивності та RL: analog-circuit-design/prerequisites/07-inductors-and-rl-basics.md
       - 08. Змінний струм та фільтри: analog-circuit-design/prerequisites/08-ac-signals-and-passive-components.md
       - 09. Вимірювання та практика: analog-circuit-design/prerequisites/09-measurements-and-real-world-circuits.md
-
