@@ -9,6 +9,6 @@ Always follow the guidelines and templates located in `.templates/`:
 Key rules:
 1. Every lecture/module must contain both `README.md` (detailed note) and `cheat-sheet.md` (summary & cheat sheet).
 2. The `cheat-sheet.md` MUST capture the most important essence of the topic (TL;DR, core concepts, definitions, architectural principles, comparative tables, rules of thumb, gotchas/pitfalls), EVEN IF there are no formulas in that topic. If formulas exist, include a comprehensive formula table.
-3. Maintain the progression: Intuition ("plain english / analogies") -> Rigorous Math (KaTeX `$$...$$`) -> Circuit Implementation / Diagrams -> Pitfalls & Real-world usage.
+3. Maintain the progression: Intuition ("plain english / analogies") -> Rigorous Math (KaTeX `$ ... $`) -> Circuit Implementation / Diagrams -> Pitfalls & Real-world usage.
 4. Keep navigation bars at the top and bottom of each document.
 

@@ -17,11 +17,11 @@
 
 ### Закони послідовного з'єднання:
 1. **Струм є однаковим** у кожній точці кола:
-   $$I_{\text{total}} = I_1 = I_2 = \dots = I_n$$
+   $I_{\text{total}} = I_1 = I_2 = \dots = I_n$
 2. **Загальна напруга** дорівнює сумі спадів напруг на кожному резисторі:
-   $$U_{\text{total}} = U_1 + U_2 + \dots + U_n$$
+   $U_{\text{total}} = U_1 + U_2 + \dots + U_n$
 3. **Еквівалентний опір:**
-   $$R_{\text{eq}} = R_1 + R_2 + \dots + R_n$$
+   $R_{\text{eq}} = R_1 + R_2 + \dots + R_n$
 
 ---
 
@@ -41,14 +41,14 @@
 
 ### Закони паралельного з'єднання:
 1. **Напруга є однаковою** на всіх гілках:
-   $$U_{\text{total}} = U_1 = U_2 = \dots = U_n$$
+   $U_{\text{total}} = U_1 = U_2 = \dots = U_n$
 2. **Загальний струм** дорівнює сумі струмів у гілках:
-   $$I_{\text{total}} = I_1 + I_2 + \dots + I_n$$
+   $I_{\text{total}} = I_1 + I_2 + \dots + I_n$
 3. **Еквівалентний опір (додаються провідності):**
-   $$\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$$
+   $\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$
 
 * **Формула для ДВОХ паралельних резисторів (вивчити напам'ять!):**
-  $$R_{\text{eq}} = \frac{R_1 \cdot R_2}{R_1 + R_2}$$
+  $R_{\text{eq}} = \frac{R_1 \cdot R_2}{R_1 + R_2}$
 * Якщо паралельно з'єднано $N$ однакових резисторів $R$: $R_{\text{eq}} = \frac{R}{N}$.
 * Еквівалентний опір паралельного з'єднання **завжди менший за найменший з опорів**.
 
@@ -76,13 +76,13 @@
 Струм через коло: $I = \frac{V_{\text{in}}}{R_1 + R_2}$.
 Напруга $V_{\text{out}}$ — це спад напруги на резисторі $R_2$:
 
-$$V_{\text{out}} = I \cdot R_2 = V_{\text{in}} \cdot \frac{R_2}{R_1 + R_2}$$
+$V_{\text{out}} = I \cdot R_2 = V_{\text{in}} \cdot \frac{R_2}{R_1 + R_2}$
 
 ### ⚠️ Підводний камінь: Ефект навантаження (Loading Effect)
 Якщо до виходу $V_{\text{out}}$ підключити споживач з опором навантаження $R_L$:
 * Резистор $R_2$ опиняється паралельно з $R_L$: $R_2' = R_2 \parallel R_L = \frac{R_2 R_L}{R_2 + R_L} < R_2$.
 * Реальна напруга під навантаженням **просяде**:
-  $$V_{\text{out}} = V_{\text{in}} \cdot \frac{R_2 \parallel R_L}{R_1 + (R_2 \parallel R_L)}$$
+  $V_{\text{out}} = V_{\text{in}} \cdot \frac{R_2 \parallel R_L}{R_1 + (R_2 \parallel R_L)}$
 * **Золоте правило схемотехніки:** Щоб подільник напруги не спотворював сигнал під навантаженням, опір навантаження має бути набагато більшим за опір подільника: **$R_L \ge 10 \cdot R_2$**.
 
 ---
@@ -99,8 +99,8 @@ $$V_{\text{out}} = I \cdot R_2 = V_{\text{in}} \cdot \frac{R_2}{R_1 + R_2}$$
                 +----[ R2 ]----+  I2
 ```
 
-$$I_1 = I_{\text{total}} \cdot \frac{R_2}{R_1 + R_2}$$
-$$I_2 = I_{\text{total}} \cdot \frac{R_1}{R_1 + R_2}$$
+$I_1 = I_{\text{total}} \cdot \frac{R_2}{R_1 + R_2}$
+$I_2 = I_{\text{total}} \cdot \frac{R_1}{R_1 + R_2}$
 
 > **Зверніть увагу:** У чисельнику стоїть опір **протилежної** гілки! Більший струм тече туди, де менший опір.
 
@@ -128,12 +128,12 @@ $$I_2 = I_{\text{total}} \cdot \frac{R_1}{R_1 + R_2}$$
 ```
 
 Потенціали в точках $A$ та $B$:
-$$V_A = V_{\text{in}} \frac{R_2}{R_1 + R_2}, \quad V_B = V_{\text{in}} \frac{R_4}{R_3 + R_4}$$
+$V_A = V_{\text{in}} \frac{R_2}{R_1 + R_2}, \quad V_B = V_{\text{in}} \frac{R_4}{R_3 + R_4}$
 Різниця потенціалів між точками $A$ і $B$:
-$$V_{AB} = V_A - V_B = V_{\text{in}} \left( \frac{R_2}{R_1 + R_2} - \frac{R_4}{R_3 + R_4} \right)$$
+$V_{AB} = V_A - V_B = V_{\text{in}} \left( \frac{R_2}{R_1 + R_2} - \frac{R_4}{R_3 + R_4} \right)$
 
 ### Умова балансу мосту ($V_{AB} = 0$):
-$$\frac{R_1}{R_2} = \frac{R_3}{R_4} \quad \Longleftrightarrow \quad R_1 R_4 = R_2 R_3$$
+$\frac{R_1}{R_2} = \frac{R_3}{R_4} \quad \Longleftrightarrow \quad R_1 R_4 = R_2 R_3$
 
 ---
 
@@ -141,8 +141,8 @@ $$\frac{R_1}{R_2} = \frac{R_3}{R_4} \quad \Longleftrightarrow \quad R_1 R_4 = R_
 
 Для розрахунку складних кіл, де немає чистого послідовного або паралельного з'єднання:
 
-$$\text{Трикутник } (\Delta) \to \text{Зірка } (Y): \quad R_A = \frac{R_{AB} R_{CA}}{R_{AB} + R_{BC} + R_{CA}}$$
-$$\text{Зірка } (Y) \to \text{Трикутник } (\Delta): \quad R_{AB} = R_A + R_B + \frac{R_A R_B}{R_C}$$
+$\text{Трикутник } (\Delta) \to \text{Зірка } (Y): \quad R_A = \frac{R_{AB} R_{CA}}{R_{AB} + R_{BC} + R_{CA}}$
+$\text{Зірка } (Y) \to \text{Трикутник } (\Delta): \quad R_{AB} = R_A + R_B + \frac{R_A R_B}{R_C}$
 
 ---
 
