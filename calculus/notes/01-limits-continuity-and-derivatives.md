@@ -122,3 +122,4 @@ $$df = f'(x) \cdot \Delta x = f'(x) dx$$
 ---
 
 [🏠 Головний зміст](index.md) | [Наступна тема: 02. Теореми аналізу та ряди Тейлора ➡️](02-mean-value-theorems-taylor-series-and-extrema.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

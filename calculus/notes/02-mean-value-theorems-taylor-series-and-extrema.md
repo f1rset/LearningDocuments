@@ -120,3 +120,4 @@ $$f(x) = f(x_0) + f'(x_0)(x - x_0) + \frac{f''(x_0)}{2!}(x - x_0)^2 + \dots + \f
 ---
 
 [⬅️ 01. Границі та похідні](01-limits-continuity-and-derivatives.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Невизначені та визначені інтеграли ➡️](03-indefinite-and-definite-integrals.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

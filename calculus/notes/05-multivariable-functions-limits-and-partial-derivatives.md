@@ -133,3 +133,4 @@ $$D_{\mathbf{u}} f(\mathbf{x}) = \lim_{t \to 0} \frac{f(\mathbf{x} + t\mathbf{u}
 ---
 
 [⬅️ Попередня: 04. Числові, степеневі та ряди Фур'є](04-numerical-power-and-fourier-series.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 06. Диференціювання складної функції, матриці Якобі та Гессе ➡️](06-multivariable-chain-rule-jacobian-and-hessian.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

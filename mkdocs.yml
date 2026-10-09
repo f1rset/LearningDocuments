@@ -94,6 +94,21 @@ nav:
       - 08. Кратні інтеграли та заміни координат: calculus/notes/08-multiple-integrals-and-coordinate-transformations.md
       - 09. Векторний аналіз (Грін, Гаусс, Стокс): calculus/notes/09-vector-calculus-and-line-surface-integrals.md
       - 10. Диференціальні рівняння та системи: calculus/notes/10-differential-equations-ode-and-systems.md
+  - Теорія ймовірностей та статистика (Probability & Statistics):
+      - Головна та зміст: probability-and-statistics/index.md
+      - Шпаргалка (Cheat Sheet): probability-and-statistics/cheat-sheet.md
+      - 01. Простір подій та аксіоми: probability-and-statistics/notes/01-probability-space-combinatorics-and-axioms.md
+      - 02. Умовна ймовірність та Байєс: probability-and-statistics/notes/02-conditional-probability-bayes-and-independence.md
+      - 03. Дискретні випадкові величини: probability-and-statistics/notes/03-discrete-random-variables-and-distributions.md
+      - 04. Неперервні випадкові величини: probability-and-statistics/notes/04-continuous-random-variables-and-densities.md
+      - 05. Сподівання, дисперсія та моменти: probability-and-statistics/notes/05-expectation-variance-and-moments.md
+      - 06. Багатовимірні розподіли та коваріація: probability-and-statistics/notes/06-multivariate-distributions-covariance-and-joint-pdf.md
+      - 07. Граничні теореми (ЗВЧ та ЦГТ): probability-and-statistics/notes/07-limit-theorems-law-of-large-numbers-and-clt.md
+      - 08. Описова статистика та вибіркові розподіли: probability-and-statistics/notes/08-descriptive-statistics-and-sampling-distributions.md
+      - 09. Точкове оцінювання та метод MLE: probability-and-statistics/notes/09-point-estimation-mle-and-method-of-moments.md
+      - 10. Довірчі інтервали: probability-and-statistics/notes/10-confidence-intervals.md
+      - 11. Перевірка статистичних гіпотез: probability-and-statistics/notes/11-hypothesis-testing.md
+      - 12. Лінійна регресія та кореляція: probability-and-statistics/notes/12-linear-regression-and-correlation-analysis.md
   - Аналогова схемотехніка:
       - Вступ та зміст: analog-circuit-design/prerequisites/index.md
       - Шпаргалка (Cheat Sheet): analog-circuit-design/prerequisites/cheat-sheet.md

@@ -41,6 +41,24 @@
 
 ---
 
+### 🎲 [Теорія ймовірностей та математична статистика (Probability & Statistics)](probability-and-statistics/index.md)
+* ⚡ **[Ultimate Probability & Statistics Cheat Sheet](probability-and-statistics/cheat-sheet.md)** *(Таблиці всіх розподілів, ЦГТ, оцінювання, критерії, регресія)*
+* **Модулі курсу:**
+  * [01. Простір подій, комбінаторика та аксіоматика ймовірностей (Probability Space & Axioms)](probability-and-statistics/notes/01-probability-space-combinatorics-and-axioms.md)
+  * [02. Умовна ймовірність, формула Байєса та незалежність (Conditional Probability & Bayes)](probability-and-statistics/notes/02-conditional-probability-bayes-and-independence.md)
+  * [03. Дискретні випадкові величини та розподіли (Discrete Random Variables & Distributions)](probability-and-statistics/notes/03-discrete-random-variables-and-distributions.md)
+  * [04. Неперервні випадкові величини та щільності розподілу (Continuous Random Variables & Densities)](probability-and-statistics/notes/04-continuous-random-variables-and-densities.md)
+  * [05. Числові характеристики: сподівання, дисперсія та моменти (Expectation, Variance & Moments)](probability-and-statistics/notes/05-expectation-variance-and-moments.md)
+  * [06. Багатовимірні розподіли, коваріація та спільна щільність (Multivariate Distributions & Covariance)](probability-and-statistics/notes/06-multivariate-distributions-covariance-and-joint-pdf.md)
+  * [07. Граничні теореми: Закон великих чисел та ЦГТ (Limit Theorems, LLN & CLT)](probability-and-statistics/notes/07-limit-theorems-law-of-large-numbers-and-clt.md)
+  * [08. Описова статистика та вибіркові розподіли (Descriptive Statistics & Sampling Distributions)](probability-and-statistics/notes/08-descriptive-statistics-and-sampling-distributions.md)
+  * [09. Точкове оцінювання параметрів та метод MLE (Point Estimation, MoM & MLE)](probability-and-statistics/notes/09-point-estimation-mle-and-method-of-moments.md)
+  * [10. Інтервальне оцінювання та довірчі інтервали (Confidence Intervals & Estimation)](probability-and-statistics/notes/10-confidence-intervals.md)
+  * [11. Перевірка статистичних гіпотез (Statistical Hypothesis Testing)](probability-and-statistics/notes/11-hypothesis-testing.md)
+  * [12. Лінійна регресія та кореляційний аналіз (Linear Regression & Correlation Analysis)](probability-and-statistics/notes/12-linear-regression-and-correlation-analysis.md)
+
+---
+
 ### 🔌 [Аналогова схемотехніка (Analog Circuit Design)](analog-circuit-design/prerequisites/index.md)
 
 #### 📘 Базові фізичні основи (Prerequisites)

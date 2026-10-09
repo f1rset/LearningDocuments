@@ -138,3 +138,4 @@ $$f(x) = \sum_{n=-\infty}^{+\infty} c_n e^{i n \omega_0 x}, \quad \text{де } c
 ---
 
 [⬅️ Попередня: 03. Невизначений та визначений інтеграли](03-indefinite-and-definite-integrals.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 05. Функції багатьох змінних, частинні похідні та градієнт ➡️](05-multivariable-functions-limits-and-partial-derivatives.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+

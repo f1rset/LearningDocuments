@@ -133,3 +133,4 @@ $$\min f(\mathbf{x}) \quad \text{s.t.} \quad g(\mathbf{x}) = 0 \implies \begin{c
 ---
 
 [🏠 Головний зміст](index.md) | [📚 Повний курс лекцій](notes/01-limits-continuity-and-derivatives.md)
+

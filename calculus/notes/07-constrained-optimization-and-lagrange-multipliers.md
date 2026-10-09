@@ -129,3 +129,4 @@ $$\min f(\mathbf{x}) \quad \text{s.t.} \quad g_i(\mathbf{x}) \le 0, \quad i = 1,
 ---
 
 [⬅️ Попередня: 06. Диференціювання складної функції, матриці Якобі та Гессе](06-multivariable-chain-rule-jacobian-and-hessian.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 08. Кратні інтеграли та заміни змінних ➡️](08-multiple-integrals-and-coordinate-transformations.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+
