@@ -9,7 +9,7 @@
 Змінний струм (Alternating Current, AC) — це струм, величина і напрямок якого періодично змінюються в часі.
 
 ### Математичний вираз гармонічної напруги:
-$u(t) = U_m \cdot \sin(\omega t + \varphi_0)$
+$$u(t) = U_m \cdot \sin(\omega t + \varphi_0)$$
 
 ```
      u(t) ^
@@ -27,9 +27,9 @@ $u(t) = U_m \cdot \sin(\omega t + \varphi_0)$
 * **Розмах від піку до піку ($V_{pp}$ або $U_{p-p}$):** $V_{pp} = 2 \cdot U_m$.
 * **Період ($T$):** Час одного повного коливання ($\text{с}$).
 * **Частота ($f$):** Кількість коливань за секунду ($\text{Гц}$, $\text{Hz}$):
-  $f = \frac{1}{T}$
+  $$f = \frac{1}{T}$$
 * **Кутова (циклічна) частота ($\omega$):**
-  $\omega = 2\pi f = \frac{2\pi}{T} \quad [\text{рад/с}]$
+  $$\omega = 2\pi f = \frac{2\pi}{T} \quad [\text{рад/с}]$$
 * **Початкова фаза ($\varphi_0$):** Зсув сигналу в момент часу $t = 0$.
 
 ---
@@ -42,11 +42,11 @@ $u(t) = U_m \cdot \sin(\omega t + \varphi_0)$
 ### Фізичний зміст RMS:
 **Діюче значення змінного струму ($I_{\text{RMS}}$)** чисельно дорівнює такому значенню *постійного струму*, який за однаковий час виділяє в тому самому резисторі таку саму кількість теплоти:
 
-$P_{\text{avg}} = I_{\text{RMS}}^2 \cdot R = \frac{U_{\text{RMS}}^2}{R}$
+$$P_{\text{avg}} = I_{\text{RMS}}^2 \cdot R = \frac{U_{\text{RMS}}^2}{R}$$
 
 ### Для синусоїдального сигналу:
-$U_{\text{RMS}} = \frac{U_m}{\sqrt{2}} \approx 0.707 \cdot U_m$
-$I_{\text{RMS}} = \frac{I_m}{\sqrt{2}} \approx 0.707 \cdot I_m$
+$$U_{\text{RMS}} = \frac{U_m}{\sqrt{2}} \approx 0.707 \cdot U_m$$
+$$I_{\text{RMS}} = \frac{I_m}{\sqrt{2}} \approx 0.707 \cdot I_m$$
 
 > **💡 Приклад із життя:**
 > Коли в побутовій електромережі кажуть «напруга $230\text{ В}$» — це саме **$U_{\text{RMS}} = 230\text{ В}$**.
@@ -67,11 +67,11 @@ $I_{\text{RMS}} = \frac{I_m}{\sqrt{2}} \approx 0.707 \cdot I_m$
 
 ### 3.2. Конденсатор ($C$) та реактивний опір $X_C$
 Підставимо $u(t) = U_m \sin(\omega t)$ у формулу $i = C \frac{du}{dt}$:
-$i(t) = C \cdot \frac{d}{dt}(U_m \sin(\omega t)) = \omega C U_m \cos(\omega t) = \omega C U_m \sin\left(\omega t + 90^\circ\right)$
+$$i(t) = C \cdot \frac{d}{dt}(U_m \sin(\omega t)) = \omega C U_m \cos(\omega t) = \omega C U_m \sin\left(\omega t + 90^\circ\right)$$
 
 * **Фазовий зсув:** **Струм випереджає напругу на $90^\circ$ ($\pi/2$)**.
 * **Ємнісний реактивний опір ($X_C$):**
-  $X_C = \frac{1}{\omega C} = \frac{1}{2\pi f C} \quad [\Omega]$
+  $$X_C = \frac{1}{\omega C} = \frac{1}{2\pi f C} \quad [\Omega]$$
 * **Частотні властивості:**
   * На постійному струмі ($f = 0\text{ Hz}$): $X_C \to \infty$ (не пропускає DC).
   * На високих частотах ($f \to \infty$): $X_C \to 0$ (конденсатор перетворюється на коротке замикання для ВЧ сигналу).
@@ -80,11 +80,11 @@ $i(t) = C \cdot \frac{d}{dt}(U_m \sin(\omega t)) = \omega C U_m \cos(\omega t) =
 
 ### 3.3. Котушка індуктивності ($L$) та реактивний опір $X_L$
 Підставимо $i(t) = I_m \sin(\omega t)$ у формулу $u = L \frac{di}{dt}$:
-$u(t) = L \cdot \frac{d}{dt}(I_m \sin(\omega t)) = \omega L I_m \cos(\omega t) = \omega L I_m \sin\left(\omega t + 90^\circ\right)$
+$$u(t) = L \cdot \frac{d}{dt}(I_m \sin(\omega t)) = \omega L I_m \cos(\omega t) = \omega L I_m \sin\left(\omega t + 90^\circ\right)$$
 
 * **Фазовий зсув:** **Напруга випереджає струм на $90^\circ$ ($\pi/2$)**.
 * **Індуктивний реактивний опір ($X_L$):**
-  $X_L = \omega L = 2\pi f L \quad [\Omega]$
+  $$X_L = \omega L = 2\pi f L \quad [\Omega]$$
 * **Частотні властивості:**
   * На постійному струмі ($f = 0\text{ Hz}$): $X_L = 0$ (ідеальний провідник).
   * На високих частотах ($f \to \infty$): $X_L \to \infty$ (блокує високочастотні перешкоди / дросель).
@@ -100,24 +100,24 @@ $u(t) = L \cdot \frac{d}{dt}(I_m \sin(\omega t)) = \omega L I_m \cos(\omega t) =
                       L      C
 ```
 
-$Z = \sqrt{R^2 + (X_L - X_C)^2} = \sqrt{R^2 + \left(\omega L - \frac{1}{\omega C}\right)^2}$
+$$Z = \sqrt{R^2 + (X_L - X_C)^2} = \sqrt{R^2 + \left(\omega L - \frac{1}{\omega C}\right)^2}$$
 
 * **Закон Ома для змінного струму:**
-  $I_{\text{RMS}} = \frac{U_{\text{RMS}}}{Z}$
+  $$I_{\text{RMS}} = \frac{U_{\text{RMS}}}{Z}$$
 * **Зсув фаз між повною напругою та струмом:**
-  $\operatorname{tg}\varphi = \frac{X_L - X_C}{R}$
+  $$\operatorname{tg}\varphi = \frac{X_L - X_C}{R}$$
 
 ---
 
 ## 5. Резонанс напруг (Послідовний LC-контур)
 
 Коли індуктивний та ємнісний опір зрівнюються:
-$X_L = X_C \quad \Longleftrightarrow \quad \omega_0 L = \frac{1}{\omega_0 C}$
+$$X_L = X_C \quad \Longleftrightarrow \quad \omega_0 L = \frac{1}{\omega_0 C}$$
 
 1. **Резонансна циклічна частота:**
-   $\omega_0 = \frac{1}{\sqrt{LC}}$
+   $$\omega_0 = \frac{1}{\sqrt{LC}}$$
 2. **Формула Томсона для резонансної частоти:**
-   $f_0 = \frac{1}{2\pi\sqrt{LC}}$
+   $$f_0 = \frac{1}{2\pi\sqrt{LC}}$$
 3. При резонансі:
    * Повний опір кола мінімальний і чисто активний: $Z_{\min} = R$.
    * Струм у колі досягає абсолютного максимуму: $I_{\max} = \frac{U}{R}$.
