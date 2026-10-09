@@ -65,7 +65,7 @@ site_dir: site
 
 nav:
   - Головна: index.md
-  - Аналогова схемотехніка:
+  - Prerequisites (База):
       - Вступ та зміст: analog-circuit-design/prerequisites/index.md
       - Шпаргалка (Cheat Sheet): analog-circuit-design/prerequisites/cheat-sheet.md
       - 01. Електростатика: analog-circuit-design/prerequisites/01-electrostatics-and-potential.md
@@ -77,3 +77,7 @@ nav:
       - 07. Індуктивності та RL: analog-circuit-design/prerequisites/07-inductors-and-rl-basics.md
       - 08. Змінний струм та фільтри: analog-circuit-design/prerequisites/08-ac-signals-and-passive-components.md
       - 09. Вимірювання та практика: analog-circuit-design/prerequisites/09-measurements-and-real-world-circuits.md
+  - Лекція 1 (Двополюсники, BJT, JFET):
+      - Конспект лекції: analog-circuit-design/lectures/l1/index.md
+      - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l1/cheat-sheet.md
+      - Питання та відповіді (Q&A): analog-circuit-design/lectures/l1/questions.md

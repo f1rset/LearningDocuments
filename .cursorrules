@@ -1,5 +1,5 @@
 # Instructions for AI assistants
-You are assisting with creating structured university lecture notes and cheat sheets in this repository.
+You are assisting with creating structured university lecture notes, cheat sheets, and Q&A documents in this repository.
 
 Always follow the guidelines and templates located in `.templates/`:
 - `.templates/GUIDELINES.md` — Style guide and structural requirements.
@@ -7,8 +7,14 @@ Always follow the guidelines and templates located in `.templates/`:
 - `.templates/CHEATSHEET_TEMPLATE.md` — Concise summary & cheat sheet template (`cheat-sheet.md`).
 
 Key rules:
-1. Every lecture/module must contain both `README.md` (detailed note) and `cheat-sheet.md` (summary & cheat sheet).
-2. The `cheat-sheet.md` MUST capture the most important essence of the topic (TL;DR, core concepts, definitions, architectural principles, comparative tables, rules of thumb, gotchas/pitfalls), EVEN IF there are no formulas in that topic. If formulas exist, include a comprehensive formula table.
-3. Maintain the progression: Intuition ("plain english / analogies") -> Rigorous Math (KaTeX `$$...$$`) -> Circuit Implementation / Diagrams -> Pitfalls & Real-world usage.
-4. Keep navigation bars at the top and bottom of each document.
-
+1. Every lecture directory (`analog-circuit-design/lectures/lX/`) must contain 3 files:
+   - `README.md` — Detailed lecture note.
+   - `cheat-sheet.md` — Summary & cheat sheet (TL;DR, key formulas, rules of thumb, pitfalls).
+   - `questions.md` — Dedicated file recording user questions and assistant answers.
+2. 🤖 **MANDATORY Q&A AUTOMATION RULE**:
+   Whenever a user prompt starts with `"Лекція X"` (or `"Lecture X"`, where X is the lecture number):
+   - Step 1: Provide a clear, thorough answer to the user in the chat response.
+   - Step 2: Concurrently append the question and full detailed answer into `analog-circuit-design/lectures/lX/questions.md`.
+3. The `cheat-sheet.md` MUST capture the essential core concepts of the topic (TL;DR, definitions, mechanisms, comparative tables, rules of thumb, pitfalls), EVEN IF there are no formulas in that topic.
+4. Maintain pedagogical progression: Intuition ("plain english / analogies") -> Rigorous Math (KaTeX `$ ... $` / `$$ ... $$`) -> Circuit Implementation / Diagrams -> Pitfalls & Real-world usage.
+5. Keep navigation bars at the top and bottom of each document.
