@@ -107,6 +107,7 @@
 * 📖 **Лекція 5:** [Зворотні зв'язки у підсилювачах (Feedback in Amplifiers)](analog-circuit-design/lectures/l5/index.md)
   * ⚡ [Cheat Sheet Лекції 5](analog-circuit-design/lectures/l5/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l5/questions.md)
+  * 🛠️ [Практикум: Розрахунок каскоду матричним методом](analog-circuit-design/lectures/l5/tasks.md)
 
 ---
 
