@@ -98,6 +98,9 @@
 * 📖 **Лекція 2:** [Підсилювачі електричних сигналів. Характеристики, класи підсилення та DC зміщення BJT і JFET](analog-circuit-design/lectures/l2/index.md)
   * ⚡ [Cheat Sheet Лекції 2](analog-circuit-design/lectures/l2/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l2/questions.md)
+* 📖 **Лекція 5:** [Зворотні зв'язки у підсилювачах (Feedback in Amplifiers)](analog-circuit-design/lectures/l5/index.md)
+  * ⚡ [Cheat Sheet Лекції 5](analog-circuit-design/lectures/l5/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l5/questions.md)
 
 ---
 
