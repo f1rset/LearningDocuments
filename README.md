@@ -95,6 +95,9 @@
 * 📖 **Лекція 1:** [Базові елементи аналогової схемотехніки. Двополюсники, чотириполюсники та макромоделі транзисторів (BJT і JFET)](analog-circuit-design/lectures/l1/index.md)
   * ⚡ [Cheat Sheet Лекції 1](analog-circuit-design/lectures/l1/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l1/questions.md)
+* 📖 **Лекція 2:** [Підсилювачі електричних сигналів. Характеристики, класи підсилення та DC зміщення BJT і JFET](analog-circuit-design/lectures/l2/index.md)
+  * ⚡ [Cheat Sheet Лекції 2](analog-circuit-design/lectures/l2/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l2/questions.md)
 
 ---
 
