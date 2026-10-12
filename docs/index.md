@@ -109,6 +109,24 @@
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l5/questions.md)
   * 🛠️ [Практикум: Розрахунок каскоду матричним методом](analog-circuit-design/lectures/l5/tasks.md)
 
+#### 🔬 Лабораторні роботи
+* 🧪 **[ЛР1: Підсилювачі на біполярних транзисторах (BJT BC547C: СЕ, СК, СБ)](analog-circuit-design/laboratoryWorks/work1/index.md)**
+
+---
+
+### 🚀 [Проектний менеджмент в ІТ (Project Management in IT)](project-managment/l1/index.md)
+
+* 📖 **Лекція 1:** [Основи проектного менеджменту. Стандарти (ISO, PMBOK, IPMA), Залізний трикутник, PMO та життєві цикли (Waterfall, V-Model, Agile, Hybrid)](project-managment/l1/index.md)
+  * ⚡ [Cheat Sheet Лекції 1](project-managment/l1/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](project-managment/l1/questions.md)
+* 📖 **Лекція 2:** [Продукти, Проекти, Життєві Цикли та Інженерія Вимог (IREB, INCOSE, SMART, User Story, NFR)](project-managment/l2/index.md)
+  * ⚡ [Cheat Sheet Лекції 2](project-managment/l2/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](project-managment/l2/questions.md)
+* 📖 **Лекція 3:** [Учасники Проекту, Проектна Команда та Комунікація (OEM/Tier, Матрична організація, Skills Matrix, Ескалація)](project-managment/l3/index.md)
+  * ⚡ [Cheat Sheet Лекції 3](project-managment/l3/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](project-managment/l3/questions.md)
+
+
 ---
 
 ## 📐 Правила та шаблони
