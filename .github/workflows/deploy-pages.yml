@@ -36,7 +36,7 @@ jobs:
 
       - name: Prepare documentation directory
         run: |
-          mkdir -p docs/analog-circuit-design docs/linear-algebra docs/calculus docs/probability-and-statistics docs/computer-systems-and-os docs/project-managment
+          mkdir -p docs/analog-circuit-design docs/linear-algebra docs/calculus docs/probability-and-statistics docs/computer-systems-and-os docs/project-managment docs/big-data
           # Копіюємо кореневий README як головну сторінку сайту
           cp README.md docs/index.md
           
@@ -47,6 +47,7 @@ jobs:
           cp -r probability-and-statistics/* docs/probability-and-statistics/
           cp -r computer-systems-and-os/* docs/computer-systems-and-os/
           cp -r project-managment/* docs/project-managment/
+          cp -r big-data/* docs/big-data/
 
       - name: Build MkDocs documentation
         run: mkdocs build

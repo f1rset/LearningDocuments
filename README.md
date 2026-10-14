@@ -128,6 +128,23 @@
   * ❓ [Q&A / Запитання та відповіді](project-managment/l3/questions.md)
 * 📖 **Лекція 4:** [Комунікація з клієнтом, контрактні та комерційні моделі співпраці (Fixed Price, T&M, Cost Plus, SLA)](project-managment/l4/index.md)
 
+---
+
+### 🐘 [Аналітика великих даних (Big Data Analytics with Databricks)](big-data/index.md)
+
+* ⚡ [**Ultimate Big Data Cheat Sheet** (Зведена шпаргалка для тестів)](big-data/cheat-sheet.md)
+* 📖 **Лекція 1:** [Вступ до Big Data: Властивості (3V), типи обробки та еволюція сховищ (NoSQL, DWH, Data Lake, Lakehouse)](big-data/l1/index.md)
+  * ⚡ [Cheat Sheet Лекції 1](big-data/l1/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](big-data/l1/questions.md)
+* 📖 **Лекція 2:** [Apache Spark: Архітектура, RDD, DataFrame, Shuffle, Spill та оптимізація](big-data/l2/index.md)
+  * ⚡ [Cheat Sheet Лекції 2](big-data/l2/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](big-data/l2/questions.md)
+* 📖 **Лекція 3:** [Формати файлів у Big Data (Avro, Parquet, ORC) та архітектура Delta Lake](big-data/l3/index.md)
+  * ⚡ [Cheat Sheet Лекції 3](big-data/l3/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](big-data/l3/questions.md)
+* 📖 **Лекція 4:** [Lakehouse: Моделювання даних (Inmon vs Kimball), Medallion Architecture та Data Quality](big-data/l4/index.md)
+  * ⚡ [Cheat Sheet Лекції 4](big-data/l4/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](big-data/l4/questions.md)
 
 ---
 
