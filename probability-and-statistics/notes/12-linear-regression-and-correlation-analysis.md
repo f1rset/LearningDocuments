@@ -1,6 +1,6 @@
 # 12. Лінійна регресія та кореляційний аналіз (Linear Regression & Correlation Analysis)
 
-[⬅️ Попередня: 11. Перевірка статистичних гіпотез](11-hypothesis-testing.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 11. Перевірка статистичних гіпотез](11-hypothesis-testing.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -137,5 +137,5 @@ $$F = \frac{\text{ESS} / p}{\text{RSS} / (n - p - 1)} = \frac{R^2 / p}{(1 - R^2)
 
 ---
 
-[⬅️ Попередня: 11. Перевірка статистичних гіпотез](11-hypothesis-testing.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 11. Перевірка статистичних гіпотез](11-hypothesis-testing.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

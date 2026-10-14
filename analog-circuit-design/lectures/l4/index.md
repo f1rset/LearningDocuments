@@ -1,6 +1,6 @@
 # 📖 Лекція 4: Підсилювальні каскади в областях низьких частот (великих часів) та високих частот (малих часів)
 
-[⬅️ Лекція 3: Базові каскади на BJT та FET](../l3/index.md) | [🏠 Головний зміст](../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
+[⬅️ Лекція 3: Базові каскади на BJT та FET](../l3/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
 
 ---
 
@@ -185,5 +185,5 @@ $$t_r = t_{90\%} - t_{10\%} = \tau_в \ln(9) \approx 2.2 \tau_в = \frac{2.2}{2\
 
 ---
 
-[⬅️ Лекція 3: Базові каскади на BJT та FET](../l3/index.md) | [🏠 Головний зміст](../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
+[⬅️ Лекція 3: Базові каскади на BJT та FET](../l3/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
 

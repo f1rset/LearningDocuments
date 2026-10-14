@@ -1,6 +1,6 @@
 # 02. Умовна ймовірність, формула Байєса та незалежність (Conditional Probability, Bayes' Theorem & Independence)
 
-[⬅️ Попередня: 01. Простір подій та аксіоми](01-probability-space-combinatorics-and-axioms.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Дискретні випадкові величини та розподіли ➡️](03-discrete-random-variables-and-distributions.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 01. Простір подій та аксіоми](01-probability-space-combinatorics-and-axioms.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 03. Дискретні випадкові величини та розподіли ➡️](03-discrete-random-variables-and-distributions.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -129,5 +129,5 @@ $$n p - q \le k_0 \le n p + p$$
 
 ---
 
-[⬅️ Попередня: 01. Простір подій та аксіоми](01-probability-space-combinatorics-and-axioms.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Дискретні випадкові величини та розподіли ➡️](03-discrete-random-variables-and-distributions.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 01. Простір подій та аксіоми](01-probability-space-combinatorics-and-axioms.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 03. Дискретні випадкові величини та розподіли ➡️](03-discrete-random-variables-and-distributions.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

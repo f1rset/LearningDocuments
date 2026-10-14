@@ -1,6 +1,6 @@
 # 04. Ієрархія пам'яті та кешування (Memory Hierarchy & Caches)
 
-[⬅️ Попередня: 03. Мікроархітектура процесора та конвеєризація](03-processor-microarchitecture-and-pipelining.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 05. Структура операційної системи та системні виклики ➡️](05-operating-system-structures-and-system-calls.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 03. Мікроархітектура процесора та конвеєризація](03-processor-microarchitecture-and-pipelining.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 05. Структура операційної системи та системні виклики ➡️](05-operating-system-structures-and-system-calls.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -167,5 +167,5 @@ for (int i = 0; i < N; i++) {
 
 ---
 
-[⬅️ Попередня: 03. Мікроархітектура процесора та конвеєризація](03-processor-microarchitecture-and-pipelining.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 05. Структура операційної системи та системні виклики ➡️](05-operating-system-structures-and-system-calls.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 03. Мікроархітектура процесора та конвеєризація](03-processor-microarchitecture-and-pipelining.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 05. Структура операційної системи та системні виклики ➡️](05-operating-system-structures-and-system-calls.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

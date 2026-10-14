@@ -1,6 +1,6 @@
 # 05. Структура операційної системи та системні виклики (OS Structure & System Calls)
 
-[⬅️ Попередня: 04. Ієрархія пам'яті та кешування](04-memory-hierarchy-and-caches.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 06. Управління процесами та перемикання контексту ➡️](06-process-management-and-context-switching.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 04. Ієрархія пам'яті та кешування](04-memory-hierarchy-and-caches.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 06. Управління процесами та перемикання контексту ➡️](06-process-management-and-context-switching.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -141,5 +141,5 @@
 
 ---
 
-[⬅️ Попередня: 04. Ієрархія пам'яті та кешування](04-memory-hierarchy-and-caches.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 06. Управління процесами та перемикання контексту ➡️](06-process-management-and-context-switching.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 04. Ієрархія пам'яті та кешування](04-memory-hierarchy-and-caches.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 06. Управління процесами та перемикання контексту ➡️](06-process-management-and-context-switching.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

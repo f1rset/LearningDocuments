@@ -157,8 +157,9 @@ nav:
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l5/cheat-sheet.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l5/questions.md
           - Практикум та задачі: analog-circuit-design/lectures/l5/tasks.md
-      - Лабораторні роботи:
-          - ЛР1. Підсилювачі на BJT: analog-circuit-design/laboratoryWorks/work1/index.md
+      - Лабораторні та практичні роботи:
+          - Командна робота 1 (Підсилювачі на BJT): analog-circuit-design/laboratoryWorks/team_work1/index.md
+          - Практичне завдання 1 (Схема зміщення BJT): analog-circuit-design/laboratoryWorks/self_work1/index.md
   - Проектний менеджмент в ІТ (Project Management):
       - Лекція 1 (Основи, Стандарти, Життєві Цикли):
           - Конспект лекції: project-managment/l1/index.md
@@ -172,3 +173,5 @@ nav:
           - Конспект лекції: project-managment/l3/index.md
           - Шпаргалка (Cheat Sheet): project-managment/l3/cheat-sheet.md
           - Питання та відповіді (Q&A): project-managment/l3/questions.md
+      - Лекція 4 (Комунікація з клієнтом та моделі співпраці):
+          - Конспект лекції: project-managment/l4/index.md

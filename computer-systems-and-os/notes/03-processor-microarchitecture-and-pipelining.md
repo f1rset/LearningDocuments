@@ -1,6 +1,6 @@
 # 03. Мікроархітектура процесора та конвеєризація (Processor Microarchitecture & Pipelining)
 
-[⬅️ Попередня: 02. Архітектура набору команд та асемблер](02-instruction-set-architecture-and-assembly.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Ієрархія пам'яті та кешування ➡️](04-memory-hierarchy-and-caches.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 02. Архітектура набору команд та асемблер](02-instruction-set-architecture-and-assembly.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 04. Ієрархія пам'яті та кешування ➡️](04-memory-hierarchy-and-caches.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -129,5 +129,5 @@ $$\text{CPU Time} = \text{Instructions} \times \text{CPI} \times \text{Clock Cyc
 
 ---
 
-[⬅️ Попередня: 02. Архітектура набору команд та асемблер](02-instruction-set-architecture-and-assembly.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Ієрархія пам'яті та кешування ➡️](04-memory-hierarchy-and-caches.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 02. Архітектура набору команд та асемблер](02-instruction-set-architecture-and-assembly.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 04. Ієрархія пам'яті та кешування ➡️](04-memory-hierarchy-and-caches.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

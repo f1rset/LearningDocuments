@@ -1,6 +1,6 @@
 # 01. Простір подій, комбінаторика та аксіоматика ймовірностей (Probability Space, Combinatorics & Axioms)
 
-[🏠 Головний зміст](index.md) | [Наступна тема: 02. Умовна ймовірність, формула Байєса та незалежність ➡️](02-conditional-probability-bayes-and-independence.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[🏠 Головний зміст](../index.md) | [Наступна тема: 02. Умовна ймовірність, формула Байєса та незалежність ➡️](02-conditional-probability-bayes-and-independence.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -124,5 +124,5 @@ $$P(A) = \frac{\mu(A)}{\mu(\Omega)}$$
 
 ---
 
-[🏠 Головний зміст](index.md) | [Наступна тема: 02. Умовна ймовірність, формула Байєса та незалежність ➡️](02-conditional-probability-bayes-and-independence.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[🏠 Головний зміст](../index.md) | [Наступна тема: 02. Умовна ймовірність, формула Байєса та незалежність ➡️](02-conditional-probability-bayes-and-independence.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

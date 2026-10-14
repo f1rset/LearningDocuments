@@ -1,6 +1,6 @@
 # 11. Симетричні матриці, квадратичні форми, розклад Холецького та PCA (Symmetric Matrices, Quadratic Forms, Cholesky & PCA)
 
-[⬅️ 10. Власні значення та жорданова форма](10-eigenvalues-eigenvectors-and-jordan-form.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 12. Спектральна теорія та унітарні матриці ➡️](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 10. Власні значення та жорданова форма](10-eigenvalues-eigenvectors-and-jordan-form.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 12. Спектральна теорія та унітарні матриці ➡️](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -135,5 +135,5 @@ $$
 
 ---
 
-[⬅️ 10. Власні значення та жорданова форма](10-eigenvalues-eigenvectors-and-jordan-form.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 12. Спектральна теорія та унітарні матриці ➡️](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 10. Власні значення та жорданова форма](10-eigenvalues-eigenvectors-and-jordan-form.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 12. Спектральна теорія та унітарні матриці ➡️](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

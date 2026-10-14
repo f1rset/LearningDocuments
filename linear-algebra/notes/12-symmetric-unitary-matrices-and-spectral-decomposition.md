@@ -1,6 +1,6 @@
 # 12. Симетричні, кососиметричні, унітарні матриці та спектральна теорія (Symmetric, Anti-Symmetric, Unitary Matrices & Spectral Decomposition)
 
-[⬅️ 11. Симетричні матриці та PCA](11-symmetric-matrices-quadratic-forms-and-pca.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 13. Сингулярний розклад (SVD) ➡️](13-svd-and-best-rank-approximations.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 11. Симетричні матриці та PCA](11-symmetric-matrices-quadratic-forms-and-pca.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 13. Сингулярний розклад (SVD) ➡️](13-svd-and-best-rank-approximations.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -115,5 +115,5 @@ $$P_i = \mathbf{u}_i \mathbf{u}_i^*$$
 
 ---
 
-[⬅️ 11. Симетричні матриці та PCA](11-symmetric-matrices-quadratic-forms-and-pca.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 13. Сингулярний розклад (SVD) ➡️](13-svd-and-best-rank-approximations.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 11. Симетричні матриці та PCA](11-symmetric-matrices-quadratic-forms-and-pca.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 13. Сингулярний розклад (SVD) ➡️](13-svd-and-best-rank-approximations.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

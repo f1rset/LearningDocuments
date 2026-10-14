@@ -1,6 +1,6 @@
 # ⚡ Ultimate Linear Algebra Cheat Sheet: Вся лінійна алгебра в формулах та концепціях
 
-[🏠 Головний зміст](index.md) | [01. Системи лінійних рівнянь](01-systems-of-linear-equations-and-gaussian-elimination.md) | [13. Сингулярний розклад (SVD)](13-svd-and-best-rank-approximations.md)
+[🏠 Головний зміст](index.md) | [01. Системи лінійних рівнянь](notes/01-systems-of-linear-equations-and-gaussian-elimination.md) | [13. Сингулярний розклад (SVD)](notes/13-svd-and-best-rank-approximations.md)
 
 ---
 

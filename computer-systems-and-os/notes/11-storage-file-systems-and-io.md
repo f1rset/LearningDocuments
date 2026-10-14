@@ -1,6 +1,6 @@
 # 11. Дискові підсистеми, файлові системи та I/O (Storage, File Systems & I/O)
 
-[⬅️ Попередня: 10. Управління пам'яттю та віртуальна пам'ять](10-memory-management-and-virtual-memory.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 12. Віртуалізація, контейнеризація та безпека ОС ➡️](12-virtualization-containers-and-security.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 10. Управління пам'яттю та віртуальна пам'ять](10-memory-management-and-virtual-memory.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 12. Віртуалізація, контейнеризація та безпека ОС ➡️](12-virtualization-containers-and-security.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -160,5 +160,5 @@ $$\text{Total Access Time} = \text{Seek Time} + \text{Rotational Latency} + \tex
 
 ---
 
-[⬅️ Попередня: 10. Управління пам'яттю та віртуальна пам'ять](10-memory-management-and-virtual-memory.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 12. Віртуалізація, контейнеризація та безпека ОС ➡️](12-virtualization-containers-and-security.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 10. Управління пам'яттю та віртуальна пам'ять](10-memory-management-and-virtual-memory.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 12. Віртуалізація, контейнеризація та безпека ОС ➡️](12-virtualization-containers-and-security.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

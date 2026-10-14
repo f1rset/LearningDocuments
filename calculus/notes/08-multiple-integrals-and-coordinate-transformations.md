@@ -1,6 +1,6 @@
 # 08. Кратні інтеграли та заміни координат (Multiple Integrals & Coordinate Transformations)
 
-[⬅️ Попередня: 07. Умовна оптимізація та множники Лагранжа](07-constrained-optimization-and-lagrange-multipliers.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 09. Векторний аналіз, криволінійні та поверхневі інтеграли ➡️](09-vector-calculus-and-line-surface-integrals.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 07. Умовна оптимізація та множники Лагранжа](07-constrained-optimization-and-lagrange-multipliers.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 09. Векторний аналіз, криволінійні та поверхневі інтеграли ➡️](09-vector-calculus-and-line-surface-integrals.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -125,5 +125,5 @@ $$x = \rho \sin\phi \cos\theta, \quad y = \rho \sin\phi \sin\theta, \quad z = \r
 
 ---
 
-[⬅️ Попередня: 07. Умовна оптимізація та множники Лагранжа](07-constrained-optimization-and-lagrange-multipliers.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 09. Векторний аналіз, криволінійні та поверхневі інтеграли ➡️](09-vector-calculus-and-line-surface-integrals.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 07. Умовна оптимізація та множники Лагранжа](07-constrained-optimization-and-lagrange-multipliers.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 09. Векторний аналіз, криволінійні та поверхневі інтеграли ➡️](09-vector-calculus-and-line-surface-integrals.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

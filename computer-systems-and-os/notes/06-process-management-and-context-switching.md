@@ -1,6 +1,6 @@
 # 06. Управління процесами та перемикання контексту (Process Management & Context Switching)
 
-[⬅️ Попередня: 05. Структура операційної системи та системні виклики](05-operating-system-structures-and-system-calls.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 07. Потоки виконання, паралелізм та багатоядерність ➡️](07-threads-concurrency-and-multicore.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 05. Структура операційної системи та системні виклики](05-operating-system-structures-and-system-calls.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 07. Потоки виконання, паралелізм та багатоядерність ➡️](07-threads-concurrency-and-multicore.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -180,5 +180,5 @@ if (pid < 0) {
 
 ---
 
-[⬅️ Попередня: 05. Структура операційної системи та системні виклики](05-operating-system-structures-and-system-calls.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 07. Потоки виконання, паралелізм та багатоядерність ➡️](07-threads-concurrency-and-multicore.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 05. Структура операційної системи та системні виклики](05-operating-system-structures-and-system-calls.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 07. Потоки виконання, паралелізм та багатоядерність ➡️](07-threads-concurrency-and-multicore.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

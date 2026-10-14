@@ -1,6 +1,6 @@
 # 13. Сингулярний розклад, наближення низького рангу та застосування SVD (Singular Value Decomposition & Applications)
 
-[⬅️ 12. Спектральна теорія та унітарні матриці](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 12. Спектральна теорія та унітарні матриці](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -128,5 +128,5 @@ $$\Sigma^+ = \text{diag}\left( \frac{1}{\sigma_1}, \frac{1}{\sigma_2}, \dots, \f
 
 ---
 
-[⬅️ 12. Спектральна теорія та унітарні матриці](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 12. Спектральна теорія та унітарні матриці](12-symmetric-unitary-matrices-and-spectral-decomposition.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

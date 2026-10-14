@@ -1,6 +1,6 @@
 # 09. Ортогональні матриці, процес Грама-Шмідта та QR-факторизація (Orthogonal Matrices, Gram-Schmidt & QR Factorization)
 
-[⬅️ 08. Проекції та метод найменших квадратів](08-orthonormal-bases-projections-and-least-squares.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Власні значення, вектори та жорданова форма ➡️](10-eigenvalues-eigenvectors-and-jordan-form.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 08. Проекції та метод найменших квадратів](08-orthonormal-bases-projections-and-least-squares.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 10. Власні значення, вектори та жорданова форма ➡️](10-eigenvalues-eigenvectors-and-jordan-form.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -122,5 +122,5 @@ $$\mathbf{A = Q R}$$
 
 ---
 
-[⬅️ 08. Проекції та метод найменших квадратів](08-orthonormal-bases-projections-and-least-squares.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Власні значення, вектори та жорданова форма ➡️](10-eigenvalues-eigenvectors-and-jordan-form.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 08. Проекції та метод найменших квадратів](08-orthonormal-bases-projections-and-least-squares.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 10. Власні значення, вектори та жорданова форма ➡️](10-eigenvalues-eigenvectors-and-jordan-form.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

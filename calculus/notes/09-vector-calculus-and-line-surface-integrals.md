@@ -1,6 +1,6 @@
 # 09. Векторний аналіз, криволінійні та поверхневі інтеграли (Vector Calculus, Line & Surface Integrals)
 
-[⬅️ Попередня: 08. Кратні інтеграли та заміни змінних](08-multiple-integrals-and-coordinate-transformations.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Диференціальні рівняння та системи ➡️](10-differential-equations-ode-and-systems.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 08. Кратні інтеграли та заміни змінних](08-multiple-integrals-and-coordinate-transformations.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 10. Диференціальні рівняння та системи ➡️](10-differential-equations-ode-and-systems.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -138,5 +138,5 @@ $$\int_{\partial \Omega} \omega = \int_\Omega d\omega$$
 
 ---
 
-[⬅️ Попередня: 08. Кратні інтеграли та заміни змінних](08-multiple-integrals-and-coordinate-transformations.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Диференціальні рівняння та системи ➡️](10-differential-equations-ode-and-systems.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 08. Кратні інтеграли та заміни змінних](08-multiple-integrals-and-coordinate-transformations.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 10. Диференціальні рівняння та системи ➡️](10-differential-equations-ode-and-systems.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

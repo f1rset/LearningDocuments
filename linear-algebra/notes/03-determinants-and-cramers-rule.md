@@ -1,6 +1,6 @@
 # 03. Визначники, їхні властивості та правило Крамера (Determinants, Properties & Cramer's Rule)
 
-[⬅️ 02. Матриці та LU-розклад](02-matrices-vectors-and-lu-factorization.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Лінійні простори ➡️](04-vector-spaces-subspaces-and-spans.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 02. Матриці та LU-розклад](02-matrices-vectors-and-lu-factorization.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 04. Лінійні простори ➡️](04-vector-spaces-subspaces-and-spans.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -133,5 +133,5 @@ $$A_i = [\mathbf{a}_1 \mid \dots \mid \mathbf{a}_{i-1} \mid \mathbf{b} \mid \mat
 
 ---
 
-[⬅️ 02. Матриці та LU-розклад](02-matrices-vectors-and-lu-factorization.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Лінійні простори ➡️](04-vector-spaces-subspaces-and-spans.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 02. Матриці та LU-розклад](02-matrices-vectors-and-lu-factorization.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 04. Лінійні простори ➡️](04-vector-spaces-subspaces-and-spans.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

@@ -1,6 +1,6 @@
 # 🛠️ Практикум: Розрахунок каскодного підсилювача матричним методом вузлових провідностей
 
-[⬅️ Конспект Лекції 5](index.md) | [🏠 Головний зміст](../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді](questions.md)
+[⬅️ Конспект Лекції 5](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді](questions.md)
 
 ---
 
@@ -275,4 +275,4 @@ $$R_{\text{вих}} \approx \frac{\frac{h_{21}}{h_{11}}}{G_3 \cdot \frac{h_{21}}
 
 ---
 
-[⬅️ Конспект Лекції 5](index.md) | [🏠 Головний зміст](../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді](questions.md)
+[⬅️ Конспект Лекції 5](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді](questions.md)

@@ -1,6 +1,6 @@
 # 07. Потоки виконання, паралелізм та багатоядерність (Threads, Concurrency & Multicore)
 
-[⬅️ Попередня: 06. Управління процесами та перемикання контексту](06-process-management-and-context-switching.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 08. Алгоритми планування процесора (CPU Scheduling) ➡️](08-cpu-scheduling-algorithms.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 06. Управління процесами та перемикання контексту](06-process-management-and-context-switching.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 08. Алгоритми планування процесора (CPU Scheduling) ➡️](08-cpu-scheduling-algorithms.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -151,5 +151,5 @@ int main() {
 
 ---
 
-[⬅️ Попередня: 06. Управління процесами та перемикання контексту](06-process-management-and-context-switching.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 08. Алгоритми планування процесора (CPU Scheduling) ➡️](08-cpu-scheduling-algorithms.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 06. Управління процесами та перемикання контексту](06-process-management-and-context-switching.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 08. Алгоритми планування процесора (CPU Scheduling) ➡️](08-cpu-scheduling-algorithms.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

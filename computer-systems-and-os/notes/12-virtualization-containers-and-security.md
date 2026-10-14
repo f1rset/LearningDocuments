@@ -1,6 +1,6 @@
 # 12. Віртуалізація, контейнеризація та безпека ОС (Virtualization, Containers & OS Security)
 
-[⬅️ Попередня: 11. Дискові підсистеми, файлові системи та I/O](11-storage-file-systems-and-io.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 11. Дискові підсистеми, файлові системи та I/O](11-storage-file-systems-and-io.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -141,5 +141,5 @@
 
 ---
 
-[⬅️ Попередня: 11. Дискові підсистеми, файлові системи та I/O](11-storage-file-systems-and-io.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 11. Дискові підсистеми, файлові системи та I/O](11-storage-file-systems-and-io.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

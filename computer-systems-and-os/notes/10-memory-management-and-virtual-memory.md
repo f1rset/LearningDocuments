@@ -1,6 +1,6 @@
 # 10. Управління пам'яттю та віртуальна пам'ять (Memory Management & Virtual Memory)
 
-[⬅️ Попередня: 09. Синхронізація процесів та дедлоки](09-process-synchronization-and-deadlocks.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 11. Дискові підсистеми, файлові системи та I/O ➡️](11-storage-file-systems-and-io.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 09. Синхронізація процесів та дедлоки](09-process-synchronization-and-deadlocks.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 11. Дискові підсистеми, файлові системи та I/O ➡️](11-storage-file-systems-and-io.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -159,5 +159,5 @@
 
 ---
 
-[⬅️ Попередня: 09. Синхронізація процесів та дедлоки](09-process-synchronization-and-deadlocks.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 11. Дискові підсистеми, файлові системи та I/O ➡️](11-storage-file-systems-and-io.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 09. Синхронізація процесів та дедлоки](09-process-synchronization-and-deadlocks.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 11. Дискові підсистеми, файлові системи та I/O ➡️](11-storage-file-systems-and-io.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

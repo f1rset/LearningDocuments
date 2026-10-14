@@ -1,6 +1,6 @@
 # 01. Комп'ютерні абстракції та архітектура фон Неймана (Computer Abstractions & Von Neumann Architecture)
 
-[🏠 Головний зміст](index.md) | [Наступна тема: 02. Архітектура набору команд та асемблер ➡️](02-instruction-set-architecture-and-assembly.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[🏠 Головний зміст](../index.md) | [Наступна тема: 02. Архітектура набору команд та асемблер ➡️](02-instruction-set-architecture-and-assembly.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -158,5 +158,5 @@ $$V = (-1)^S \times (1.M) \times 2^{E - \text{Bias}}$$
 
 ---
 
-[🏠 Головний зміст](index.md) | [Наступна тема: 02. Архітектура набору команд та асемблер ➡️](02-instruction-set-architecture-and-assembly.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[🏠 Головний зміст](../index.md) | [Наступна тема: 02. Архітектура набору команд та асемблер ➡️](02-instruction-set-architecture-and-assembly.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

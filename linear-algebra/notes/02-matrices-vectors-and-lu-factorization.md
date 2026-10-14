@@ -1,6 +1,6 @@
 # 02. Матриці, вектори, елементарні перетворення та LU-розклад (Matrices, Vectors, Elementary Transformations & LU Factorization)
 
-[⬅️ 01. Системи лінійних рівнянь](01-systems-of-linear-equations-and-gaussian-elimination.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Визначники ➡️](03-determinants-and-cramers-rule.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 01. Системи лінійних рівнянь](01-systems-of-linear-equations-and-gaussian-elimination.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 03. Визначники ➡️](03-determinants-and-cramers-rule.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -116,5 +116,5 @@ $$P A = L U$$
 
 ---
 
-[⬅️ 01. Системи лінійних рівнянь](01-systems-of-linear-equations-and-gaussian-elimination.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Визначники ➡️](03-determinants-and-cramers-rule.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 01. Системи лінійних рівнянь](01-systems-of-linear-equations-and-gaussian-elimination.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 03. Визначники ➡️](03-determinants-and-cramers-rule.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

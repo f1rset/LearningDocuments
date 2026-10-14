@@ -1,6 +1,6 @@
 # 09. Синхронізація процесів та взаємні блокування (Process Synchronization & Deadlocks)
 
-[⬅️ Попередня: 08. Алгоритми планування процесора](08-cpu-scheduling-algorithms.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Управління пам'яттю та віртуальна пам'ять ➡️](10-memory-management-and-virtual-memory.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 08. Алгоритми планування процесора](08-cpu-scheduling-algorithms.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 10. Управління пам'яттю та віртуальна пам'ять ➡️](10-memory-management-and-virtual-memory.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -167,5 +167,5 @@ void consumer() {
 
 ---
 
-[⬅️ Попередня: 08. Алгоритми планування процесора](08-cpu-scheduling-algorithms.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 10. Управління пам'яттю та віртуальна пам'ять ➡️](10-memory-management-and-virtual-memory.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 08. Алгоритми планування процесора](08-cpu-scheduling-algorithms.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 10. Управління пам'яттю та віртуальна пам'ять ➡️](10-memory-management-and-virtual-memory.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

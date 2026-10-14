@@ -15,3 +15,11 @@ dist/
 build/
 .cache/
 
+# Ignore generated PDF reports
+Stetsiuk_Lab1.pdf
+
+# MkDocs generated docs (keep only custom assets)
+/docs/*
+!/docs/javascripts/
+
+

@@ -109,8 +109,9 @@
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l5/questions.md)
   * 🛠️ [Практикум: Розрахунок каскоду матричним методом](analog-circuit-design/lectures/l5/tasks.md)
 
-#### 🔬 Лабораторні роботи
-* 🧪 **[ЛР1: Підсилювачі на біполярних транзисторах (BJT BC547C: СЕ, СК, СБ)](analog-circuit-design/laboratoryWorks/work1/index.md)**
+#### 🔬 Лабораторні та практичні роботи
+* 🧪 **Командна робота 1:** [Підсилювачі на біполярних транзисторах (BJT BC547C: СЕ, СК, СБ)](analog-circuit-design/laboratoryWorks/team_work1/index.md)
+* 🧪 **Практичне завдання 1:** [Розрахунок та моделювання схеми зміщення BJT (2SA1015)](analog-circuit-design/laboratoryWorks/self_work1/index.md)
 
 ---
 
@@ -125,6 +126,7 @@
 * 📖 **Лекція 3:** [Учасники Проекту, Проектна Команда та Комунікація (OEM/Tier, Матрична організація, Skills Matrix, Ескалація)](project-managment/l3/index.md)
   * ⚡ [Cheat Sheet Лекції 3](project-managment/l3/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](project-managment/l3/questions.md)
+* 📖 **Лекція 4:** [Комунікація з клієнтом, контрактні та комерційні моделі співпраці (Fixed Price, T&M, Cost Plus, SLA)](project-managment/l4/index.md)
 
 
 ---

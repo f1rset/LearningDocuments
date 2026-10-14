@@ -1,6 +1,6 @@
 # 01. Системи лінійних рівнянь та метод Гаусса (Systems of Linear Equations & Gaussian Elimination)
 
-[🏠 Головний зміст](index.md) | [Наступна тема: 02. Матриці, вектори та LU-розклад ➡️](02-matrices-vectors-and-lu-factorization.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[🏠 Головний зміст](../index.md) | [Наступна тема: 02. Матриці, вектори та LU-розклад ➡️](02-matrices-vectors-and-lu-factorization.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -128,5 +128,5 @@ flowchart TD
 
 ---
 
-[🏠 Головний зміст](index.md) | [Наступна тема: 02. Матриці, вектори та LU-розклад ➡️](02-matrices-vectors-and-lu-factorization.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[🏠 Головний зміст](../index.md) | [Наступна тема: 02. Матриці, вектори та LU-розклад ➡️](02-matrices-vectors-and-lu-factorization.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

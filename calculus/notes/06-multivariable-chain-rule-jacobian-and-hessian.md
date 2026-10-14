@@ -1,6 +1,6 @@
 # 06. Диференціювання складної функції, матриці Якобі та Гессе (Multivariable Chain Rule, Jacobian & Hessian)
 
-[⬅️ Попередня: 05. Функції багатьох змінних, частинні похідні та градієнт](05-multivariable-functions-limits-and-partial-derivatives.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 07. Умовна оптимізація та множники Лагранжа ➡️](07-constrained-optimization-and-lagrange-multipliers.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 05. Функції багатьох змінних, частинні похідні та градієнт](05-multivariable-functions-limits-and-partial-derivatives.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 07. Умовна оптимізація та множники Лагранжа ➡️](07-constrained-optimization-and-lagrange-multipliers.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -127,5 +127,5 @@ $$\det H = D = A C - B^2 = f_{xx} f_{yy} - (f_{xy})^2$$
 
 ---
 
-[⬅️ Попередня: 05. Функції багатьох змінних, частинні похідні та градієнт](05-multivariable-functions-limits-and-partial-derivatives.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 07. Умовна оптимізація та множники Лагранжа ➡️](07-constrained-optimization-and-lagrange-multipliers.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 05. Функції багатьох змінних, частинні похідні та градієнт](05-multivariable-functions-limits-and-partial-derivatives.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 07. Умовна оптимізація та множники Лагранжа ➡️](07-constrained-optimization-and-lagrange-multipliers.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

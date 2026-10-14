@@ -1,6 +1,6 @@
 # 02. Архітектура набору команд та асемблер x86-64 (ISA & Assembly Programming)
 
-[⬅️ Попередня: 01. Комп'ютерні абстракції та архітектура фон Неймана](01-computer-abstraction-and-von-neumann-architecture.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Мікроархітектура процесора та конвеєризація ➡️](03-processor-microarchitecture-and-pipelining.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 01. Комп'ютерні абстракції та архітектура фон Неймана](01-computer-abstraction-and-von-neumann-architecture.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 03. Мікроархітектура процесора та конвеєризація ➡️](03-processor-microarchitecture-and-pipelining.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -161,5 +161,5 @@ my_function:
 
 ---
 
-[⬅️ Попередня: 01. Комп'ютерні абстракції та архітектура фон Неймана](01-computer-abstraction-and-von-neumann-architecture.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 03. Мікроархітектура процесора та конвеєризація ➡️](03-processor-microarchitecture-and-pipelining.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 01. Комп'ютерні абстракції та архітектура фон Неймана](01-computer-abstraction-and-von-neumann-architecture.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 03. Мікроархітектура процесора та конвеєризація ➡️](03-processor-microarchitecture-and-pipelining.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

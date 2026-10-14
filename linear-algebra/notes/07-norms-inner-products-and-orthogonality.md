@@ -1,6 +1,6 @@
 # 07. Норми, відстані, скалярний добуток та ортогональність (Norms, Inner Products & Orthogonality)
 
-[⬅️ 06. Заміна базису та оператори](06-change-of-basis-and-linear-transformations.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 08. Ортонормовані базиси, проекції та метод найменших квадратів ➡️](08-orthonormal-bases-projections-and-least-squares.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 06. Заміна базису та оператори](06-change-of-basis-and-linear-transformations.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 08. Ортонормовані базиси, проекції та метод найменших квадратів ➡️](08-orthonormal-bases-projections-and-least-squares.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -137,5 +137,5 @@ $$W^\perp = \{\mathbf{v} \in V \mid \langle \mathbf{v}, \mathbf{w} \rangle = 0 \
 
 ---
 
-[⬅️ 06. Заміна базису та оператори](06-change-of-basis-and-linear-transformations.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 08. Ортонормовані базиси, проекції та метод найменших квадратів ➡️](08-orthonormal-bases-projections-and-least-squares.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ 06. Заміна базису та оператори](06-change-of-basis-and-linear-transformations.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 08. Ортонормовані базиси, проекції та метод найменших квадратів ➡️](08-orthonormal-bases-projections-and-least-squares.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

@@ -1,6 +1,6 @@
 # 03. Невизначений та визначений інтеграли (Indefinite & Definite Integrals)
 
-[⬅️ Попередня: 02. Теореми аналізу та ряди Тейлора](02-mean-value-theorems-taylor-series-and-extrema.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Числові, степеневі та ряди Фур'є ➡️](04-numerical-power-and-fourier-series.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 02. Теореми аналізу та ряди Тейлора](02-mean-value-theorems-taylor-series-and-extrema.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 04. Числові, степеневі та ряди Фур'є ➡️](04-numerical-power-and-fourier-series.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -158,5 +158,5 @@ $$\int_a^b f(x)\,dx = \lim_{\varepsilon \to 0^+} \int_a^{b - \varepsilon} f(x)\,
 
 ---
 
-[⬅️ Попередня: 02. Теореми аналізу та ряди Тейлора](02-mean-value-theorems-taylor-series-and-extrema.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 04. Числові, степеневі та ряди Фур'є ➡️](04-numerical-power-and-fourier-series.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 02. Теореми аналізу та ряди Тейлора](02-mean-value-theorems-taylor-series-and-extrema.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 04. Числові, степеневі та ряди Фур'є ➡️](04-numerical-power-and-fourier-series.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

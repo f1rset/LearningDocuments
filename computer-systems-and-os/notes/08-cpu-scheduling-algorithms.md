@@ -1,6 +1,6 @@
 # 08. Алгоритми планування процесора (CPU Scheduling Algorithms)
 
-[⬅️ Попередня: 07. Потоки виконання та багатоядерність](07-threads-concurrency-and-multicore.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 09. Синхронізація процесів та взаємні блокування (Deadlocks) ➡️](09-process-synchronization-and-deadlocks.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 07. Потоки виконання та багатоядерність](07-threads-concurrency-and-multicore.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 09. Синхронізація процесів та взаємні блокування (Deadlocks) ➡️](09-process-synchronization-and-deadlocks.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -133,5 +133,5 @@ CPU виділяється процесу з найменшим часом на�
 
 ---
 
-[⬅️ Попередня: 07. Потоки виконання та багатоядерність](07-threads-concurrency-and-multicore.md) | [🏠 Головний зміст](index.md) | [Наступна тема: 09. Синхронізація процесів та взаємні блокування (Deadlocks) ➡️](09-process-synchronization-and-deadlocks.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 07. Потоки виконання та багатоядерність](07-threads-concurrency-and-multicore.md) | [🏠 Головний зміст](../index.md) | [Наступна тема: 09. Синхронізація процесів та взаємні блокування (Deadlocks) ➡️](09-process-synchronization-and-deadlocks.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 

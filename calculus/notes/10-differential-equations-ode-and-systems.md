@@ -1,6 +1,6 @@
 # 10. Диференціальні рівняння та системи (Differential Equations & Systems)
 
-[⬅️ Попередня: 09. Векторний аналіз, криволінійні та поверхневі інтеграли](09-vector-calculus-and-line-surface-integrals.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 09. Векторний аналіз, криволінійні та поверхневі інтеграли](09-vector-calculus-and-line-surface-integrals.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
 ---
 
@@ -160,5 +160,5 @@ $$\frac{d\mathbf{x}}{dt} = A \mathbf{x}, \quad \mathbf{x}(t) \in \mathbb{R}^n, \
 
 ---
 
-[⬅️ Попередня: 09. Векторний аналіз, криволінійні та поверхневі інтеграли](09-vector-calculus-and-line-surface-integrals.md) | [🏠 Головний зміст](index.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Попередня: 09. Векторний аналіз, криволінійні та поверхневі інтеграли](09-vector-calculus-and-line-surface-integrals.md) | [🏠 Головний зміст](../index.md) | [⚡ Cheat Sheet](../cheat-sheet.md)
 
