@@ -126,7 +126,9 @@
 * 📖 **Лекція 3:** [Учасники Проекту, Проектна Команда та Комунікація (OEM/Tier, Матрична організація, Skills Matrix, Ескалація)](project-managment/l3/index.md)
   * ⚡ [Cheat Sheet Лекції 3](project-managment/l3/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](project-managment/l3/questions.md)
-* 📖 **Лекція 4:** [Комунікація з клієнтом, контрактні та комерційні моделі співпраці (Fixed Price, T&M, Cost Plus, SLA)](project-managment/l4/index.md)
+* 📖 **Лекція 4:** [Прісейл, Оцінка Проекту, Ресурси та Фінанси (RFI/RFP/RFQ, Моделі співпраці, PERT, Бюджет, OPEX/CAPEX)](project-managment/l4/index.md)
+  * ⚡ [Cheat Sheet Лекції 4](project-managment/l4/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](project-managment/l4/questions.md)
 
 ---
 
