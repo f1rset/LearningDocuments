@@ -129,6 +129,9 @@
 * 📖 **Лекція 4:** [Прісейл, Оцінка Проекту, Ресурси та Фінанси (RFI/RFP/RFQ, Моделі співпраці, PERT, Бюджет, OPEX/CAPEX)](project-managment/l4/index.md)
   * ⚡ [Cheat Sheet Лекції 4](project-managment/l4/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](project-managment/l4/questions.md)
+* 📖 **Лекція 5:** [Створення Проекту, Планування, Ризики та Конфігурація (Статут, WBS, Діаграма Ґанта, CPM, Rolling Wave, FMEA/RPN, PCMP)](project-managment/l5/index.md)
+  * ⚡ [Cheat Sheet Лекції 5](project-managment/l5/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](project-managment/l5/questions.md)
 
 ---
 
