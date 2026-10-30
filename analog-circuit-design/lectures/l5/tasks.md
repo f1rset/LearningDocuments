@@ -344,3 +344,4 @@
 ---
 
 [⬅️ Конспект Лекції 5](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🧮 Приклад розв'язання задачі](example.md) | [❓ Q&A](questions.md)
+

@@ -1,6 +1,6 @@
 # 📖 Лекція 2: Підсилювачі електричних сигналів. Характеристики, класи підсилення та схеми забезпечення статичного режиму (DC Bias) BJT і JFET
 
-[⬅️ Лекція 1: Базові елементи, BJT та JFET](../l1/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
+[⬅️ Лекція 1: Базові елементи, BJT та JFET](../l1/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🧮 Приклад розв'язання задачі](example.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Питання та відповіді (Q&A)](questions.md)
 
 ---
 
@@ -503,5 +503,5 @@ $$I_{D0} \uparrow \implies U_S = I_{D0} R_s \uparrow \implies U_{GS0} = -U_S \te
 
 ---
 
-[⬅️ Лекція 1: Базові елементи, BJT та JFET](../l1/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [❓ Питання та відповіді (Q&A)](questions.md)
+[⬅️ Лекція 1: Базові елементи, BJT та JFET](../l1/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🧮 Приклад розв'язання задачі](example.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Питання та відповіді (Q&A)](questions.md)
 

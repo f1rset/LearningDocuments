@@ -139,18 +139,26 @@ nav:
       - Лекція 1 (Двополюсники, BJT, JFET):
           - Конспект лекції: analog-circuit-design/lectures/l1/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l1/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l1/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l1/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l1/questions.md
       - Лекція 2 (Підсилювачі, характеристики, класи та DC зміщення):
           - Конспект лекції: analog-circuit-design/lectures/l2/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l2/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l2/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l2/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l2/questions.md
       - Лекція 3 (Базові каскади у смузі середніх частот):
           - Конспект лекції: analog-circuit-design/lectures/l3/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l3/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l3/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l3/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l3/questions.md
       - Лекція 4 (Каскади в областях НЧ та ВЧ):
           - Конспект лекції: analog-circuit-design/lectures/l4/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l4/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l4/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l4/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l4/questions.md
       - Лекція 5 (Зворотні зв'язки у підсилювачах):
           - Конспект лекції: analog-circuit-design/lectures/l5/index.md
@@ -161,6 +169,8 @@ nav:
       - Лекція 6 (Операційні підсилювачі: макромоделі, параметри та LM324):
           - Конспект лекції: analog-circuit-design/lectures/l6/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l6/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l6/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l6/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l6/questions.md
       - Лабораторні та практичні роботи:
           - Командна робота 1 (Підсилювачі на BJT): analog-circuit-design/laboratoryWorks/team_work1/index.md

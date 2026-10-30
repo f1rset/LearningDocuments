@@ -106,3 +106,4 @@ $$[Y] \cdot [U] = [I]$$
 ---
 
 [⬅️ Конспект лекції](index.md) | [🏠 Головний зміст](../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Q&A](questions.md)
+
