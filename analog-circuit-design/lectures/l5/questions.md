@@ -1,6 +1,6 @@
 # ❓ Питання та відповіді (Q&A) — Лекція 5: Зворотні зв'язки у підсилювачах
 
-[⬅️ Конспект лекції](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md)
+[⬅️ Конспект лекції](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🧮 Приклад (Example)](example.md) | [🛠️ Задачі (Tasks)](tasks.md)
 
 ---
 

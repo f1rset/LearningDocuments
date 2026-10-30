@@ -561,3 +561,4 @@ IN-  │   │     │   │  IN+   │        ┌────┤   │    │  
 ---
 
 [⬅️ Попередня лекція](../l5/index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Відкрити Cheat Sheet](cheat-sheet.md) | [❓ Q&A](questions.md)
+

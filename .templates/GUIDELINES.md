@@ -6,10 +6,14 @@
 
 ## 📌 Обов'язкова структура для кожної лекції
 
-Кожна лекція (наприклад, `analog-circuit-design/lectures/l1/`, `analog-circuit-design/lectures/l2/` тощо) **повинна містити 3 документи**:
-1. **`README.md`** — Детальний академічний конспект лекції за шаблоном [`.templates/LECTURE_TEMPLATE.md`](LECTURE_TEMPLATE.md).
+Кожна лекція (наприклад, `analog-circuit-design/lectures/l1/`, `analog-circuit-design/lectures/l2/` тощо) **повинна містити базові документи**:
+1. **`index.md`** (або **`README.md`**) — Детальний академічний конспект лекції за шаблоном [`.templates/LECTURE_TEMPLATE.md`](LECTURE_TEMPLATE.md).
 2. **`cheat-sheet.md`** — Компактна інженерна шпаргалка / концентрована вижимка за шаблоном [`.templates/CHEATSHEET_TEMPLATE.md`](CHEATSHEET_TEMPLATE.md).
 3. **`questions.md`** — Файл інтерактивних запитань та відповідей (Q&A) за матеріалами лекції.
+
+За наявності розрахунково-практичної частини тема доповнюється:
+4. **`example.md`** — Детальний приклад покрокового розв'язання типової задачі за шаблоном [`.templates/EXAMPLE_TEMPLATE.md`](EXAMPLE_TEMPLATE.md).
+5. **`tasks.md`** — Збірник із 10 практичних задач для напрацювання навичок із відповідями за шаблоном [`.templates/TASKS_TEMPLATE.md`](TASKS_TEMPLATE.md).
 
 ---
 
@@ -51,7 +55,9 @@
 ├── .templates/                     <- Прихована папка шаблонів та інструкцій
 │   ├── GUIDELINES.md               <- Загальний стандарт та правила
 │   ├── LECTURE_TEMPLATE.md         <- Шаблон детального конспекту лекції
-│   └── CHEATSHEET_TEMPLATE.md      <- Шаблон шпаргалки (концепції + формули + правила)
+│   ├── CHEATSHEET_TEMPLATE.md      <- Шаблон шпаргалки (концепції + формули + правила)
+│   ├── EXAMPLE_TEMPLATE.md         <- Шаблон прикладу розв'язання задачі (example.md)
+│   └── TASKS_TEMPLATE.md           <- Шаблон збірника 10 практичних задач (tasks.md)
 ├── .cursorrules                    <- Автоматичні правила для Cursor / ШІ
 ├── AGENTS.md                       <- Інструкції для ШІ-агентів (Antigravity / Claude / Gemini)
 ├── mkdocs.yml                      <- Конфігурація сайту документації

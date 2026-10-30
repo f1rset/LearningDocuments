@@ -155,8 +155,9 @@ nav:
       - Лекція 5 (Зворотні зв'язки у підсилювачах):
           - Конспект лекції: analog-circuit-design/lectures/l5/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l5/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l5/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l5/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l5/questions.md
-          - Практикум та задачі: analog-circuit-design/lectures/l5/tasks.md
       - Лекція 6 (Операційні підсилювачі: макромоделі, параметри та LM324):
           - Конспект лекції: analog-circuit-design/lectures/l6/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l6/cheat-sheet.md
