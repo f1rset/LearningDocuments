@@ -221,3 +221,4 @@ $$C_e = \frac{1}{2\pi \cdot f_н \cdot R_{te}} = \frac{1}{2\pi \cdot 20 \cdot 12
 ---
 
 [⬅️ Конспект Лекції 2](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Q&A](questions.md)
+

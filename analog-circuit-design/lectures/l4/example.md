@@ -217,3 +217,4 @@ $$t_r \approx \frac{0.35}{f_в} = \frac{0.35}{752900\ \text{Гц}} \approx \math
 ---
 
 [⬅️ Конспект Лекції 4](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Q&A](questions.md)
+

@@ -181,3 +181,4 @@ $$|K_{U\text{(sys)}}|_{\text{дБ}} = 20 \lg(39.06) \approx \mathbf{31.83\ \text
 ---
 
 [⬅️ Конспект Лекції 3](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Q&A](questions.md)
+

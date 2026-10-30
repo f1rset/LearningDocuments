@@ -196,3 +196,4 @@ $$I_{\text{pull}} \approx \frac{U_{\text{вих}}}{R_{\text{pull}}} \approx \fra
 ---
 
 [⬅️ Конспект Лекції 6](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Q&A](questions.md)
+

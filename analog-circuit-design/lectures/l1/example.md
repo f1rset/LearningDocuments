@@ -129,3 +129,4 @@ $$R_{\text{вих}} = R_c \parallel r_o = 3.0\ \text{k}\Omega \parallel 52.5\ \t
 ---
 
 [⬅️ Конспект Лекції 1](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🛠️ Задачі для напрацювання](tasks.md) | [❓ Q&A](questions.md)
+

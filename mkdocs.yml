@@ -172,6 +172,12 @@ nav:
           - Приклад розрахунку (Example): analog-circuit-design/lectures/l6/example.md
           - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l6/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l6/questions.md
+      - Лекція 7 (Схеми нульового порядку на ОП):
+          - Конспект лекції: analog-circuit-design/lectures/l7/index.md
+          - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l7/cheat-sheet.md
+          - Приклад розрахунку (Example): analog-circuit-design/lectures/l7/example.md
+          - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l7/tasks.md
+          - Питання та відповіді (Q&A): analog-circuit-design/lectures/l7/questions.md
       - Лабораторні та практичні роботи:
           - Командна робота 1 (Підсилювачі на BJT): analog-circuit-design/laboratoryWorks/team_work1/index.md
           - Практичне завдання 1 (Схема зміщення BJT): analog-circuit-design/laboratoryWorks/self_work1/index.md

@@ -122,6 +122,11 @@
   * 🧮 [Приклад розв'язання: Диференційний підсилювач на ОП, DC/AC похибки та CMRR](analog-circuit-design/lectures/l6/example.md)
   * 🛠️ [Задачі для напрацювання (10 розрахункових завдань)](analog-circuit-design/lectures/l6/tasks.md)
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l6/questions.md)
+* 📖 **Лекція 7:** [Підсилювальні схеми на ОП нульового порядку (Масштабні підсилювачі, диференціальні каскади, суматори, інвертори імпедансу)](analog-circuit-design/lectures/l7/index.md)
+  * ⚡ [Cheat Sheet Лекції 7](analog-circuit-design/lectures/l7/cheat-sheet.md)
+  * 🧮 [Приклад розв'язання: Диференціальний віднімач, CMRR та NIC-інвертор імпедансу](analog-circuit-design/lectures/l7/example.md)
+  * 🛠️ [Задачі для напрацювання (10 розрахункових завдань)](analog-circuit-design/lectures/l7/tasks.md)
+  * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l7/questions.md)
 
 #### 🔬 Лабораторні та практичні роботи
 * 🧪 **Командна робота 1:** [Підсилювачі на біполярних транзисторах (BJT BC547C: СЕ, СК, СБ)](analog-circuit-design/laboratoryWorks/team_work1/index.md)

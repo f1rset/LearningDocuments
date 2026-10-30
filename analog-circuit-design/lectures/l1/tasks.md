@@ -242,3 +242,4 @@ $$[H] = \begin{bmatrix} 1500\ \Omega & 4.0 \cdot 10^{-4} \\ 120 & 25.0\ \mu\text
 ---
 
 [⬅️ Конспект Лекції 1](index.md) | [🏠 Головний зміст](../../../README.md) | [⚡ Cheat Sheet](cheat-sheet.md) | [🧮 Приклад розв'язання задачі](example.md) | [❓ Q&A](questions.md)
+
