@@ -108,6 +108,9 @@
   * ⚡ [Cheat Sheet Лекції 5](analog-circuit-design/lectures/l5/cheat-sheet.md)
   * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l5/questions.md)
   * 🛠️ [Практикум: Розрахунок каскоду матричним методом](analog-circuit-design/lectures/l5/tasks.md)
+* 📖 **Лекція 6:** [Операційні підсилювачі. Макромоделі, параметри та схемотехніка LM324](analog-circuit-design/lectures/l6/index.md)
+  * ⚡ [Cheat Sheet Лекції 6](analog-circuit-design/lectures/l6/cheat-sheet.md)
+  * ❓ [Q&A / Запитання та відповіді](analog-circuit-design/lectures/l6/questions.md)
 
 #### 🔬 Лабораторні та практичні роботи
 * 🧪 **Командна робота 1:** [Підсилювачі на біполярних транзисторах (BJT BC547C: СЕ, СК, СБ)](analog-circuit-design/laboratoryWorks/team_work1/index.md)
