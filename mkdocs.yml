@@ -166,7 +166,7 @@ nav:
           - Приклад розрахунку (Example): analog-circuit-design/lectures/l5/example.md
           - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l5/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l5/questions.md
-      - Лекція 6 (Операційні підсилювачі: макромоделі, параметри та LM324):
+      - "Лекція 6 (Операційні підсилювачі: макромоделі, параметри та LM324)":
           - Конспект лекції: analog-circuit-design/lectures/l6/index.md
           - Шпаргалка (Cheat Sheet): analog-circuit-design/lectures/l6/cheat-sheet.md
           - Приклад розрахунку (Example): analog-circuit-design/lectures/l6/example.md
@@ -179,7 +179,9 @@ nav:
           - Задачі для напрацювання (Tasks): analog-circuit-design/lectures/l7/tasks.md
           - Питання та відповіді (Q&A): analog-circuit-design/lectures/l7/questions.md
       - Лабораторні та практичні роботи:
-          - Командна робота 1 (Підсилювачі на BJT): analog-circuit-design/laboratoryWorks/team_work1/index.md
+          - Командна робота 1 (Підсилювачі на BJT):
+              - Звіт з лабораторної роботи: analog-circuit-design/laboratoryWorks/team_work1/index.md
+              - Питання та відповіді (Q&A): analog-circuit-design/laboratoryWorks/team_work1/questions.md
           - Практичне завдання 1 (Схема зміщення BJT): analog-circuit-design/laboratoryWorks/self_work1/index.md
   - Проектний менеджмент в ІТ (Project Management):
       - Лекція 1 (Основи, Стандарти, Життєві Цикли):
